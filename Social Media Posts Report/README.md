@@ -42,9 +42,9 @@ By tracking key metrics such as impressions, engagement, follower growth, and co
 | `views`                | `INT`         | Total views on the content                                   |
 | `reach`                | `INT`         | Number of unique users who saw the post                      |
 | `impressions`          | `INT`         | Total number of times the post was displayed                 |
+| `profile_visits`       | `INT`         | Total number of times viewers visited you profile            |
 | `followers`            | `INT`         | Total followers at the time of posting                       |
-| `clicks_on_links`      | `INT`         | Number of link clicks from the post                          |
-| `engagement_rate`      | `DECIMAL(5,2)`| Engagement percentage calculated using (Likes + Comments + Shares) ÷ Total Followers × 100          |
+| `engagement_rate`      | `DECIMAL(5,2)`| Engagement percentage calculated using (Likes + Comments + Shares) ÷ Total Followers × 100|
 | `audience_location`    | `NVARCHAR(30)`| Audience's geographic location                               |
 | `audience_age_group`   | `NVARCHAR(10)`| Age group of the audience (e.g., 18-24, 25-34)               |
 
