@@ -88,6 +88,9 @@ Create an **ETL process** & a Power BI dashboard to achieve following goals:
 - **Churn by Internet Type**: Fiber Optic users experience the highest churn at 57.9%.
 - **Service Adoption vs. Churn Status**: Compares the impact of subscribing to different services (e.g streaming, security, backup) on churn.
 
+### 🔧 Churn Reason Page (Tooltip)
+- Churn Reason – Total Churn
+
 ### 🧠 Insights Derived
 
 - Customers using **Mailed Check** payment are more likely to churn.
