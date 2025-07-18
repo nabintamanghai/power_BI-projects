@@ -1,0 +1,963 @@
+Order ID,Date,Product,Category,State,Units Sold,Unit Price,Sales
+TCSTORD1,2023-01-02,Espresso Energizer,Coffee,Michigan,3,$2.50,$7.50
+TCSTORD2,2023-01-02,Zen Green Tea,Tea,Georgia,2,$3.50,$7.00
+TCSTORD3,2023-01-02,Velvety Vanilla Latte,Coffee,North Carolina,2,$3.80,$7.60
+TCSTORD4,2023-01-02,Espresso Energizer,Coffee,Michigan,3,$2.50,$7.50
+TCSTORD5,2023-01-02,Zen Green Tea,Tea,Georgia,2,$3.50,$7.00
+TCSTORD6,2023-01-02,Velvety Vanilla Latte,Coffee,North Carolina,2,$3.80,$7.60
+TCSTORD7,2023-01-04,Zen Green Tea,Tea,Georgia,2,$3.50,$7.00
+TCSTORD8,2023-01-04,Zen Green Tea,Tea,Georgia,2,$3.50,$7.00
+TCSTORD9,2023-01-05,Bold Brewed Mocha,Coffee,Michigan,4,$4.20,$16.80
+TCSTORD10,2023-01-05,Zen Green Tea,Tea,North Carolina,2,$3.50,$7.00
+TCSTORD11,2023-01-05,Bold Brewed Mocha,Coffee,Michigan,4,$4.20,$16.80
+TCSTORD12,2023-01-05,Zen Green Tea,Tea,North Carolina,2,$3.50,$7.00
+TCSTORD13,2023-01-09,Velvety Vanilla Latte,Coffee,Michigan,1,$3.80,$3.80
+TCSTORD14,2023-01-09,Velvety Vanilla Latte,Coffee,Michigan,1,$3.80,$3.80
+TCSTORD15,2023-01-10,Mystic Oolong,Tea,Georgia,2,$4.00,$8.00
+TCSTORD16,2023-01-10,Mystic Oolong,Tea,Georgia,2,$4.00,$8.00
+TCSTORD17,2023-01-12,Bold Brewed Mocha,Coffee,Michigan,1,$4.20,$4.20
+TCSTORD18,2023-01-12,Bold Brewed Mocha,Coffee,Michigan,1,$4.20,$4.20
+TCSTORD19,2023-01-14,Velvety Vanilla Latte,Coffee,Ohio,4,$3.80,$15.20
+TCSTORD20,2023-01-14,Velvety Vanilla Latte,Coffee,Ohio,4,$3.80,$15.20
+TCSTORD21,2023-01-15,Espresso Energizer,Coffee,Texas,4,$2.50,$10.00
+TCSTORD22,2023-01-15,Espresso Energizer,Coffee,Texas,4,$2.50,$10.00
+TCSTORD23,2023-01-17,Zen Green Tea,Tea,Pennsylvania,1,$3.50,$3.50
+TCSTORD24,2023-01-17,Zen Green Tea,Tea,Pennsylvania,1,$3.50,$3.50
+TCSTORD25,2023-01-18,Mystic Oolong,Tea,Georgia,1,$4.00,$4.00
+TCSTORD26,2023-01-18,Velvety Vanilla Latte,Coffee,Florida,4,$3.80,$15.20
+TCSTORD27,2023-01-18,Bold Black Tea,Tea,Texas,2,$3.00,$6.00
+TCSTORD28,2023-01-18,Mystic Oolong,Tea,Georgia,1,$4.00,$4.00
+TCSTORD29,2023-01-18,Velvety Vanilla Latte,Coffee,Florida,4,$3.80,$15.20
+TCSTORD30,2023-01-18,Bold Black Tea,Tea,Texas,2,$3.00,$6.00
+TCSTORD31,2023-01-21,Mystic Oolong,Tea,Ohio,4,$4.00,$16.00
+TCSTORD32,2023-01-21,Mystic Oolong,Tea,Ohio,4,$4.00,$16.00
+TCSTORD33,2023-01-22,Bold Black Tea,Tea,North Carolina,3,$3.00,$9.00
+TCSTORD34,2023-01-22,Espresso Energizer,Coffee,Florida,1,$2.50,$2.50
+TCSTORD35,2023-01-22,Bold Black Tea,Tea,North Carolina,3,$3.00,$9.00
+TCSTORD36,2023-01-22,Espresso Energizer,Coffee,Florida,1,$2.50,$2.50
+TCSTORD37,2023-01-23,Espresso Energizer,Coffee,California,4,$2.50,$10.00
+TCSTORD38,2023-01-23,Espresso Energizer,Coffee,California,4,$2.50,$10.00
+TCSTORD39,2023-01-24,Velvety Vanilla Latte,Coffee,California,1,$3.80,$3.80
+TCSTORD40,2023-01-24,Velvety Vanilla Latte,Coffee,Texas,2,$3.80,$7.60
+TCSTORD41,2023-01-24,Velvety Vanilla Latte,Coffee,California,1,$3.80,$3.80
+TCSTORD42,2023-01-24,Velvety Vanilla Latte,Coffee,Texas,2,$3.80,$7.60
+TCSTORD43,2023-01-25,Velvety Vanilla Latte,Coffee,New York,4,$3.80,$15.20
+TCSTORD44,2023-01-25,Velvety Vanilla Latte,Coffee,Georgia,4,$3.80,$15.20
+TCSTORD45,2023-01-25,Velvety Vanilla Latte,Coffee,New York,4,$3.80,$15.20
+TCSTORD46,2023-01-27,Mystic Oolong,Tea,Florida,2,$4.00,$8.00
+TCSTORD47,2023-01-27,Velvety Vanilla Latte,Coffee,Ohio,3,$3.80,$11.40
+TCSTORD48,2023-01-30,Mystic Oolong,Tea,North Carolina,4,$4.00,$16.00
+TCSTORD49,2023-01-30,Mystic Oolong,Tea,North Carolina,4,$4.00,$16.00
+TCSTORD50,2023-02-01,Bold Black Tea,Tea,North Carolina,2,$3.00,$6.00
+TCSTORD51,2023-02-01,Mystic Oolong,Tea,California,1,$4.00,$4.00
+TCSTORD52,2023-02-02,Velvety Vanilla Latte,Coffee,Florida,1,$3.80,$3.80
+TCSTORD53,2023-02-02,Velvety Vanilla Latte,Coffee,Pennsylvania,1,$3.80,$3.80
+TCSTORD54,2023-02-03,Zen Green Tea,Tea,Pennsylvania,4,$3.50,$14.00
+TCSTORD55,2023-02-03,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD56,2023-02-04,Velvety Vanilla Latte,Coffee,California,1,$3.80,$3.80
+TCSTORD57,2023-02-04,Velvety Vanilla Latte,Coffee,Florida,2,$3.80,$7.60
+TCSTORD58,2023-02-04,Velvety Vanilla Latte,Coffee,Georgia,1,$3.80,$3.80
+TCSTORD59,2023-02-08,Velvety Vanilla Latte,Coffee,Pennsylvania,3,$3.80,$11.40
+TCSTORD60,2023-02-09,Bold Brewed Mocha,Coffee,Pennsylvania,3,$4.20,$12.60
+TCSTORD61,2023-02-10,Zen Green Tea,Tea,Georgia,2,$3.50,$7.00
+TCSTORD62,2023-02-10,Bold Brewed Mocha,Coffee,Michigan,2,$4.20,$8.40
+TCSTORD63,2023-02-10,Mystic Oolong,Tea,Georgia,2,$4.00,$8.00
+TCSTORD64,2023-02-11,Mystic Oolong,Tea,Illinois,2,$4.00,$8.00
+TCSTORD65,2023-02-11,Zen Green Tea,Tea,North Carolina,1,$3.50,$3.50
+TCSTORD66,2023-02-12,Velvety Vanilla Latte,Coffee,Pennsylvania,4,$3.80,$15.20
+TCSTORD67,2023-02-12,Velvety Vanilla Latte,Coffee,Texas,3,$3.80,$11.40
+TCSTORD68,2023-02-14,Mystic Oolong,Tea,Pennsylvania,3,$4.00,$12.00
+TCSTORD69,2023-02-15,Bold Black Tea,Tea,Texas,1,$3.00,$3.00
+TCSTORD70,2023-02-16,Bold Black Tea,Tea,Georgia,1,$3.00,$3.00
+TCSTORD71,2023-02-16,Mystic Oolong,Tea,New York,3,$4.00,$12.00
+TCSTORD72,2023-02-16,Bold Black Tea,Tea,Ohio,1,$3.00,$3.00
+TCSTORD73,2023-02-17,Zen Green Tea,Tea,Texas,4,$3.50,$14.00
+TCSTORD74,2023-02-17,Bold Brewed Mocha,Coffee,Florida,1,$4.20,$4.20
+TCSTORD75,2023-02-17,Bold Black Tea,Tea,New York,1,$3.00,$3.00
+TCSTORD76,2023-02-18,Bold Brewed Mocha,Coffee,New York,3,$4.20,$12.60
+TCSTORD77,2023-02-19,Espresso Energizer,Coffee,California,1,$2.50,$2.50
+TCSTORD78,2023-02-19,Bold Brewed Mocha,Coffee,New York,4,$4.20,$16.80
+TCSTORD79,2023-02-21,Zen Green Tea,Tea,Ohio,4,$3.50,$14.00
+TCSTORD80,2023-02-21,Mystic Oolong,Tea,Georgia,2,$4.00,$8.00
+TCSTORD81,2023-02-21,Espresso Energizer,Coffee,Texas,2,$2.50,$5.00
+TCSTORD82,2023-02-21,Velvety Vanilla Latte,Coffee,Texas,1,$3.80,$3.80
+TCSTORD83,2023-02-24,Espresso Energizer,Coffee,New York,4,$2.50,$10.00
+TCSTORD84,2023-02-27,Velvety Vanilla Latte,Coffee,Ohio,1,$3.80,$3.80
+TCSTORD85,2023-02-27,Mystic Oolong,Tea,Pennsylvania,3,$4.00,$12.00
+TCSTORD86,2023-02-27,Bold Black Tea,Tea,Georgia,4,$3.00,$12.00
+TCSTORD87,2023-03-01,Zen Green Tea,Tea,New York,2,$3.50,$7.00
+TCSTORD88,2023-03-02,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD89,2023-03-02,Mystic Oolong,Tea,North Carolina,4,$4.00,$16.00
+TCSTORD90,2023-03-03,Mystic Oolong,Tea,Illinois,2,$4.00,$8.00
+TCSTORD91,2023-03-03,Zen Green Tea,Tea,Michigan,3,$3.50,$10.50
+TCSTORD92,2023-03-03,Velvety Vanilla Latte,Coffee,Illinois,1,$3.80,$3.80
+TCSTORD93,2023-03-05,Bold Black Tea,Tea,Ohio,4,$3.00,$12.00
+TCSTORD94,2023-03-05,Bold Black Tea,Tea,New York,3,$3.00,$9.00
+TCSTORD95,2023-03-07,Bold Brewed Mocha,Coffee,Georgia,2,$4.20,$8.40
+TCSTORD96,2023-03-10,Espresso Energizer,Coffee,Ohio,4,$2.50,$10.00
+TCSTORD97,2023-03-10,Espresso Energizer,Coffee,Michigan,2,$2.50,$5.00
+TCSTORD98,2023-03-10,Velvety Vanilla Latte,Coffee,New York,3,$3.80,$11.40
+TCSTORD99,2023-03-11,Zen Green Tea,Tea,Illinois,1,$3.50,$3.50
+TCSTORD100,2023-03-11,Zen Green Tea,Tea,Florida,1,$3.50,$3.50
+TCSTORD101,2023-03-13,Bold Brewed Mocha,Coffee,Ohio,1,$4.20,$4.20
+TCSTORD102,2023-03-13,Mystic Oolong,Tea,Florida,1,$4.00,$4.00
+TCSTORD103,2023-03-13,Bold Black Tea,Tea,New York,4,$3.00,$12.00
+TCSTORD104,2023-03-13,Espresso Energizer,Coffee,Georgia,4,$2.50,$10.00
+TCSTORD105,2023-03-14,Espresso Energizer,Coffee,Michigan,4,$2.50,$10.00
+TCSTORD106,2023-03-14,Espresso Energizer,Coffee,Texas,2,$2.50,$5.00
+TCSTORD107,2023-03-14,Bold Brewed Mocha,Coffee,Michigan,3,$4.20,$12.60
+TCSTORD108,2023-03-15,Mystic Oolong,Tea,Florida,3,$4.00,$12.00
+TCSTORD109,2023-03-16,Bold Black Tea,Tea,Ohio,2,$3.00,$6.00
+TCSTORD110,2023-03-16,Espresso Energizer,Coffee,New York,2,$2.50,$5.00
+TCSTORD111,2023-03-18,Bold Black Tea,Tea,New York,2,$3.00,$6.00
+TCSTORD112,2023-03-18,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD113,2023-03-18,Zen Green Tea,Tea,Florida,3,$3.50,$10.50
+TCSTORD114,2023-03-19,Bold Brewed Mocha,Coffee,North Carolina,2,$4.20,$8.40
+TCSTORD115,2023-03-20,Zen Green Tea,Tea,Georgia,2,$3.50,$7.00
+TCSTORD116,2023-03-21,Espresso Energizer,Coffee,California,4,$2.50,$10.00
+TCSTORD117,2023-03-21,Velvety Vanilla Latte,Coffee,North Carolina,1,$3.80,$3.80
+TCSTORD118,2023-03-21,Mystic Oolong,Tea,Georgia,1,$4.00,$4.00
+TCSTORD119,2023-03-21,Bold Brewed Mocha,Coffee,Illinois,4,$4.20,$16.80
+TCSTORD120,2023-03-21,Bold Black Tea,Tea,California,4,$3.00,$12.00
+TCSTORD121,2023-03-22,Zen Green Tea,Tea,Pennsylvania,1,$3.50,$3.50
+TCSTORD122,2023-03-23,Velvety Vanilla Latte,Coffee,Illinois,1,$3.80,$3.80
+TCSTORD123,2023-03-24,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD124,2023-03-24,Velvety Vanilla Latte,Coffee,Texas,3,$3.80,$11.40
+TCSTORD125,2023-03-25,Bold Black Tea,Tea,Pennsylvania,4,$3.00,$12.00
+TCSTORD126,2023-03-25,Espresso Energizer,Coffee,Ohio,3,$2.50,$7.50
+TCSTORD127,2023-03-25,Bold Brewed Mocha,Coffee,Michigan,3,$4.20,$12.60
+TCSTORD128,2023-03-26,Velvety Vanilla Latte,Coffee,Illinois,1,$3.80,$3.80
+TCSTORD129,2023-03-27,Velvety Vanilla Latte,Coffee,North Carolina,3,$3.80,$11.40
+TCSTORD130,2023-03-28,Espresso Energizer,Coffee,Texas,2,$2.50,$5.00
+TCSTORD131,2023-03-29,Espresso Energizer,Coffee,Illinois,2,$2.50,$5.00
+TCSTORD132,2023-03-29,Bold Black Tea,Tea,North Carolina,1,$3.00,$3.00
+TCSTORD133,2023-03-29,Zen Green Tea,Tea,Michigan,1,$3.50,$3.50
+TCSTORD134,2023-03-29,Velvety Vanilla Latte,Coffee,North Carolina,4,$3.80,$15.20
+TCSTORD135,2023-03-31,Mystic Oolong,Tea,North Carolina,4,$4.00,$16.00
+TCSTORD136,2023-03-31,Mystic Oolong,Tea,North Carolina,4,$4.00,$16.00
+TCSTORD137,2023-04-02,Espresso Energizer,Coffee,Illinois,2,$2.50,$5.00
+TCSTORD138,2023-04-02,Bold Black Tea,Tea,North Carolina,4,$3.00,$12.00
+TCSTORD139,2023-04-02,Espresso Energizer,Coffee,Illinois,2,$2.50,$5.00
+TCSTORD140,2023-04-02,Bold Black Tea,Tea,North Carolina,4,$3.00,$12.00
+TCSTORD141,2023-04-04,Espresso Energizer,Coffee,California,3,$2.50,$7.50
+TCSTORD142,2023-04-04,Espresso Energizer,Coffee,California,3,$2.50,$7.50
+TCSTORD143,2023-04-08,Espresso Energizer,Coffee,Ohio,4,$2.50,$10.00
+TCSTORD144,2023-04-08,Velvety Vanilla Latte,Coffee,Florida,1,$3.80,$3.80
+TCSTORD145,2023-04-08,Espresso Energizer,Coffee,Ohio,4,$2.50,$10.00
+TCSTORD146,2023-04-08,Velvety Vanilla Latte,Coffee,Florida,1,$3.80,$3.80
+TCSTORD147,2023-04-11,Zen Green Tea,Tea,Texas,3,$3.50,$10.50
+TCSTORD148,2023-04-11,Bold Brewed Mocha,Coffee,North Carolina,2,$4.20,$8.40
+TCSTORD149,2023-04-11,Zen Green Tea,Tea,Texas,3,$3.50,$10.50
+TCSTORD150,2023-04-11,Bold Brewed Mocha,Coffee,North Carolina,2,$4.20,$8.40
+TCSTORD151,2023-04-12,Bold Brewed Mocha,Coffee,California,4,$4.20,$16.80
+TCSTORD152,2023-04-12,Bold Brewed Mocha,Coffee,California,4,$4.20,$16.80
+TCSTORD153,2023-04-13,Espresso Energizer,Coffee,Pennsylvania,3,$2.50,$7.50
+TCSTORD154,2023-04-13,Espresso Energizer,Coffee,Pennsylvania,3,$2.50,$7.50
+TCSTORD155,2023-04-14,Zen Green Tea,Tea,North Carolina,4,$3.50,$14.00
+TCSTORD156,2023-04-14,Zen Green Tea,Tea,North Carolina,4,$3.50,$14.00
+TCSTORD157,2023-04-19,Mystic Oolong,Tea,California,3,$4.00,$12.00
+TCSTORD158,2023-04-19,Mystic Oolong,Tea,California,3,$4.00,$12.00
+TCSTORD159,2023-04-21,Velvety Vanilla Latte,Coffee,Florida,2,$3.80,$7.60
+TCSTORD160,2023-04-21,Velvety Vanilla Latte,Coffee,Florida,2,$3.80,$7.60
+TCSTORD161,2023-04-23,Mystic Oolong,Tea,North Carolina,3,$4.00,$12.00
+TCSTORD162,2023-04-23,Mystic Oolong,Tea,North Carolina,3,$4.00,$12.00
+TCSTORD163,2023-04-24,Espresso Energizer,Coffee,Ohio,4,$2.50,$10.00
+TCSTORD164,2023-04-24,Espresso Energizer,Coffee,Florida,2,$2.50,$5.00
+TCSTORD165,2023-04-24,Espresso Energizer,Coffee,Ohio,4,$2.50,$10.00
+TCSTORD166,2023-04-24,Espresso Energizer,Coffee,Florida,2,$2.50,$5.00
+TCSTORD167,2023-04-25,Bold Brewed Mocha,Coffee,Texas,2,$4.20,$8.40
+TCSTORD168,2023-04-25,Bold Brewed Mocha,Coffee,Texas,2,$4.20,$8.40
+TCSTORD169,2023-04-28,Bold Brewed Mocha,Coffee,Florida,1,$4.20,$4.20
+TCSTORD170,2023-04-28,Bold Brewed Mocha,Coffee,Pennsylvania,3,$4.20,$12.60
+TCSTORD171,2023-04-28,Velvety Vanilla Latte,Coffee,Georgia,4,$3.80,$15.20
+TCSTORD172,2023-04-28,Velvety Vanilla Latte,Coffee,Illinois,3,$3.80,$11.40
+TCSTORD173,2023-04-28,Bold Brewed Mocha,Coffee,Florida,1,$4.20,$4.20
+TCSTORD174,2023-04-28,Bold Brewed Mocha,Coffee,Pennsylvania,3,$4.20,$12.60
+TCSTORD175,2023-04-28,Velvety Vanilla Latte,Coffee,Georgia,4,$3.80,$15.20
+TCSTORD176,2023-04-28,Velvety Vanilla Latte,Coffee,Illinois,3,$3.80,$11.40
+TCSTORD177,2023-04-30,Zen Green Tea,Tea,Michigan,3,$3.50,$10.50
+TCSTORD178,2023-04-30,Zen Green Tea,Tea,Michigan,3,$3.50,$10.50
+TCSTORD179,2023-05-01,Mystic Oolong,Tea,Florida,3,$4.00,$12.00
+TCSTORD180,2023-05-01,Mystic Oolong,Tea,Florida,3,$4.00,$12.00
+TCSTORD181,2023-05-03,Bold Brewed Mocha,Coffee,Michigan,4,$4.20,$16.80
+TCSTORD182,2023-05-03,Zen Green Tea,Tea,California,4,$3.50,$14.00
+TCSTORD183,2023-05-03,Bold Brewed Mocha,Coffee,Michigan,4,$4.20,$16.80
+TCSTORD184,2023-05-03,Zen Green Tea,Tea,California,4,$3.50,$14.00
+TCSTORD185,2023-05-06,Mystic Oolong,Tea,Ohio,1,$4.00,$4.00
+TCSTORD186,2023-05-06,Mystic Oolong,Tea,Ohio,1,$4.00,$4.00
+TCSTORD187,2023-05-07,Velvety Vanilla Latte,Coffee,Georgia,4,$3.80,$15.20
+TCSTORD188,2023-05-07,Zen Green Tea,Tea,Florida,3,$3.50,$10.50
+TCSTORD189,2023-05-07,Velvety Vanilla Latte,Coffee,Georgia,4,$3.80,$15.20
+TCSTORD190,2023-05-07,Zen Green Tea,Tea,Florida,3,$3.50,$10.50
+TCSTORD191,2023-05-08,Zen Green Tea,Tea,Florida,3,$3.50,$10.50
+TCSTORD192,2023-05-08,Zen Green Tea,Tea,Florida,3,$3.50,$10.50
+TCSTORD193,2023-05-09,Mystic Oolong,Tea,Michigan,1,$4.00,$4.00
+TCSTORD194,2023-05-09,Bold Brewed Mocha,Coffee,Illinois,1,$4.20,$4.20
+TCSTORD195,2023-05-09,Mystic Oolong,Tea,Michigan,1,$4.00,$4.00
+TCSTORD196,2023-05-09,Bold Brewed Mocha,Coffee,Illinois,1,$4.20,$4.20
+TCSTORD197,2023-05-10,Bold Brewed Mocha,Coffee,North Carolina,3,$4.20,$12.60
+TCSTORD198,2023-05-10,Bold Brewed Mocha,Coffee,North Carolina,3,$4.20,$12.60
+TCSTORD199,2023-05-11,Zen Green Tea,Tea,Texas,4,$3.50,$14.00
+TCSTORD200,2023-05-11,Zen Green Tea,Tea,Texas,4,$3.50,$14.00
+TCSTORD201,2023-05-12,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD202,2023-05-12,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD203,2023-05-13,Mystic Oolong,Tea,Illinois,2,$4.00,$8.00
+TCSTORD204,2023-05-13,Mystic Oolong,Tea,Illinois,2,$4.00,$8.00
+TCSTORD205,2023-05-14,Velvety Vanilla Latte,Coffee,California,3,$3.80,$11.40
+TCSTORD206,2023-05-14,Mystic Oolong,Tea,Ohio,3,$4.00,$12.00
+TCSTORD207,2023-05-14,Bold Brewed Mocha,Coffee,Pennsylvania,2,$4.20,$8.40
+TCSTORD208,2023-05-14,Velvety Vanilla Latte,Coffee,California,3,$3.80,$11.40
+TCSTORD209,2023-05-14,Mystic Oolong,Tea,Ohio,3,$4.00,$12.00
+TCSTORD210,2023-05-14,Bold Brewed Mocha,Coffee,Pennsylvania,2,$4.20,$8.40
+TCSTORD211,2023-05-16,Zen Green Tea,Tea,Pennsylvania,2,$3.50,$7.00
+TCSTORD212,2023-05-16,Zen Green Tea,Tea,Pennsylvania,2,$3.50,$7.00
+TCSTORD213,2023-05-20,Espresso Energizer,Coffee,Michigan,2,$2.50,$5.00
+TCSTORD214,2023-05-20,Bold Black Tea,Tea,Texas,1,$3.00,$3.00
+TCSTORD215,2023-05-20,Espresso Energizer,Coffee,Michigan,2,$2.50,$5.00
+TCSTORD216,2023-05-20,Bold Black Tea,Tea,Texas,1,$3.00,$3.00
+TCSTORD217,2023-05-21,Bold Black Tea,Tea,Georgia,3,$3.00,$9.00
+TCSTORD218,2023-05-21,Bold Black Tea,Tea,Georgia,3,$3.00,$9.00
+TCSTORD219,2023-05-22,Bold Brewed Mocha,Coffee,Florida,1,$4.20,$4.20
+TCSTORD220,2023-05-22,Bold Brewed Mocha,Coffee,Georgia,1,$4.20,$4.20
+TCSTORD221,2023-05-22,Bold Brewed Mocha,Coffee,Florida,1,$4.20,$4.20
+TCSTORD222,2023-05-22,Bold Brewed Mocha,Coffee,Georgia,1,$4.20,$4.20
+TCSTORD223,2023-05-23,Zen Green Tea,Tea,Ohio,3,$3.50,$10.50
+TCSTORD224,2023-05-23,Espresso Energizer,Coffee,Georgia,2,$2.50,$5.00
+TCSTORD225,2023-05-23,Zen Green Tea,Tea,Ohio,3,$3.50,$10.50
+TCSTORD226,2023-05-23,Espresso Energizer,Coffee,Georgia,2,$2.50,$5.00
+TCSTORD227,2023-05-24,Bold Brewed Mocha,Coffee,Pennsylvania,2,$4.20,$8.40
+TCSTORD228,2023-05-24,Bold Brewed Mocha,Coffee,Pennsylvania,2,$4.20,$8.40
+TCSTORD229,2023-05-26,Velvety Vanilla Latte,Coffee,Texas,1,$3.80,$3.80
+TCSTORD230,2023-05-26,Velvety Vanilla Latte,Coffee,Texas,1,$3.80,$3.80
+TCSTORD231,2023-05-27,Bold Black Tea,Tea,North Carolina,4,$3.00,$12.00
+TCSTORD232,2023-05-27,Bold Black Tea,Tea,North Carolina,4,$3.00,$12.00
+TCSTORD233,2023-05-28,Zen Green Tea,Tea,Texas,1,$3.50,$3.50
+TCSTORD234,2023-05-28,Zen Green Tea,Tea,Texas,1,$3.50,$3.50
+TCSTORD235,2023-05-30,Bold Black Tea,Tea,Pennsylvania,3,$3.00,$9.00
+TCSTORD236,2023-05-30,Bold Brewed Mocha,Coffee,Georgia,3,$4.20,$12.60
+TCSTORD237,2023-05-30,Bold Black Tea,Tea,Pennsylvania,3,$3.00,$9.00
+TCSTORD238,2023-05-30,Bold Brewed Mocha,Coffee,Georgia,3,$4.20,$12.60
+TCSTORD239,2023-05-31,Bold Brewed Mocha,Coffee,Florida,3,$4.20,$12.60
+TCSTORD240,2023-05-31,Bold Brewed Mocha,Coffee,Florida,3,$4.20,$12.60
+TCSTORD241,2023-06-02,Espresso Energizer,Coffee,Texas,3,$2.50,$7.50
+TCSTORD242,2023-06-02,Mystic Oolong,Tea,Georgia,4,$4.00,$16.00
+TCSTORD243,2023-06-02,Espresso Energizer,Coffee,Texas,3,$2.50,$7.50
+TCSTORD244,2023-06-02,Mystic Oolong,Tea,Georgia,4,$4.00,$16.00
+TCSTORD245,2023-06-03,Espresso Energizer,Coffee,Ohio,1,$2.50,$2.50
+TCSTORD246,2023-06-03,Espresso Energizer,Coffee,Ohio,1,$2.50,$2.50
+TCSTORD247,2023-06-06,Espresso Energizer,Coffee,New York,3,$2.50,$7.50
+TCSTORD248,2023-06-06,Espresso Energizer,Coffee,New York,3,$2.50,$7.50
+TCSTORD249,2023-06-09,Mystic Oolong,Tea,North Carolina,4,$4.00,$16.00
+TCSTORD250,2023-06-09,Bold Black Tea,Tea,Pennsylvania,2,$3.00,$6.00
+TCSTORD251,2023-06-09,Mystic Oolong,Tea,North Carolina,4,$4.00,$16.00
+TCSTORD252,2023-06-09,Bold Black Tea,Tea,Pennsylvania,2,$3.00,$6.00
+TCSTORD253,2023-06-10,Bold Brewed Mocha,Coffee,Ohio,4,$4.20,$16.80
+TCSTORD254,2023-06-10,Bold Brewed Mocha,Coffee,Ohio,4,$4.20,$16.80
+TCSTORD255,2023-06-11,Bold Brewed Mocha,Coffee,California,1,$4.20,$4.20
+TCSTORD256,2023-06-11,Bold Brewed Mocha,Coffee,California,1,$4.20,$4.20
+TCSTORD257,2023-06-12,Espresso Energizer,Coffee,Georgia,3,$2.50,$7.50
+TCSTORD258,2023-06-12,Espresso Energizer,Coffee,Georgia,3,$2.50,$7.50
+TCSTORD259,2023-06-15,Velvety Vanilla Latte,Coffee,Pennsylvania,4,$3.80,$15.20
+TCSTORD260,2023-06-15,Espresso Energizer,Coffee,Illinois,4,$2.50,$10.00
+TCSTORD261,2023-06-15,Velvety Vanilla Latte,Coffee,Pennsylvania,4,$3.80,$15.20
+TCSTORD262,2023-06-15,Espresso Energizer,Coffee,Illinois,4,$2.50,$10.00
+TCSTORD263,2023-06-16,Mystic Oolong,Tea,Georgia,4,$4.00,$16.00
+TCSTORD264,2023-06-16,Mystic Oolong,Tea,Georgia,4,$4.00,$16.00
+TCSTORD265,2023-06-19,Zen Green Tea,Tea,Florida,4,$3.50,$14.00
+TCSTORD266,2023-06-19,Bold Black Tea,Tea,New York,2,$3.00,$6.00
+TCSTORD267,2023-06-19,Zen Green Tea,Tea,Florida,4,$3.50,$14.00
+TCSTORD268,2023-06-19,Bold Black Tea,Tea,New York,2,$3.00,$6.00
+TCSTORD269,2023-06-20,Mystic Oolong,Tea,North Carolina,1,$4.00,$4.00
+TCSTORD270,2023-06-20,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD271,2023-06-20,Mystic Oolong,Tea,North Carolina,1,$4.00,$4.00
+TCSTORD272,2023-06-20,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD273,2023-06-22,Zen Green Tea,Tea,California,2,$3.50,$7.00
+TCSTORD274,2023-06-22,Zen Green Tea,Tea,California,2,$3.50,$7.00
+TCSTORD275,2023-06-23,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD276,2023-06-23,Bold Black Tea,Tea,Michigan,1,$3.00,$3.00
+TCSTORD277,2023-06-23,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD278,2023-06-23,Bold Black Tea,Tea,Michigan,1,$3.00,$3.00
+TCSTORD279,2023-06-24,Espresso Energizer,Coffee,Georgia,1,$2.50,$2.50
+TCSTORD280,2023-06-24,Espresso Energizer,Coffee,Georgia,1,$2.50,$2.50
+TCSTORD281,2023-06-25,Velvety Vanilla Latte,Coffee,Ohio,4,$3.80,$15.20
+TCSTORD282,2023-06-25,Espresso Energizer,Coffee,Florida,3,$2.50,$7.50
+TCSTORD283,2023-06-25,Espresso Energizer,Coffee,Ohio,3,$2.50,$7.50
+TCSTORD284,2023-06-25,Zen Green Tea,Tea,Illinois,3,$3.50,$10.50
+TCSTORD285,2023-06-25,Bold Black Tea,Tea,Illinois,2,$3.00,$6.00
+TCSTORD286,2023-06-25,Velvety Vanilla Latte,Coffee,Ohio,4,$3.80,$15.20
+TCSTORD287,2023-06-25,Espresso Energizer,Coffee,Florida,3,$2.50,$7.50
+TCSTORD288,2023-06-25,Espresso Energizer,Coffee,Ohio,3,$2.50,$7.50
+TCSTORD289,2023-06-25,Zen Green Tea,Tea,Illinois,3,$3.50,$10.50
+TCSTORD290,2023-06-25,Bold Black Tea,Tea,Illinois,2,$3.00,$6.00
+TCSTORD291,2023-06-26,Espresso Energizer,Coffee,Michigan,1,$2.50,$2.50
+TCSTORD292,2023-06-26,Bold Black Tea,Tea,Georgia,4,$3.00,$12.00
+TCSTORD293,2023-06-26,Mystic Oolong,Tea,Florida,2,$4.00,$8.00
+TCSTORD294,2023-06-26,Espresso Energizer,Coffee,Michigan,1,$2.50,$2.50
+TCSTORD295,2023-06-26,Bold Black Tea,Tea,Georgia,4,$3.00,$12.00
+TCSTORD296,2023-06-26,Mystic Oolong,Tea,Florida,2,$4.00,$8.00
+TCSTORD297,2023-06-27,Mystic Oolong,Tea,North Carolina,2,$4.00,$8.00
+TCSTORD298,2023-06-27,Mystic Oolong,Tea,North Carolina,2,$4.00,$8.00
+TCSTORD299,2023-06-30,Bold Black Tea,Tea,Ohio,4,$3.00,$12.00
+TCSTORD300,2023-06-30,Mystic Oolong,Tea,New York,2,$4.00,$8.00
+TCSTORD301,2023-06-30,Bold Black Tea,Tea,Ohio,4,$3.00,$12.00
+TCSTORD302,2023-06-30,Mystic Oolong,Tea,New York,2,$4.00,$8.00
+TCSTORD303,2023-07-01,Mystic Oolong,Tea,Michigan,1,$4.00,$4.00
+TCSTORD304,2023-07-01,Zen Green Tea,Tea,Pennsylvania,2,$3.50,$7.00
+TCSTORD305,2023-07-01,Velvety Vanilla Latte,Coffee,New York,3,$3.80,$11.40
+TCSTORD306,2023-07-01,Mystic Oolong,Tea,Michigan,1,$4.00,$4.00
+TCSTORD307,2023-07-01,Zen Green Tea,Tea,Pennsylvania,2,$3.50,$7.00
+TCSTORD308,2023-07-01,Velvety Vanilla Latte,Coffee,New York,3,$3.80,$11.40
+TCSTORD309,2023-07-03,Bold Black Tea,Tea,North Carolina,1,$3.00,$3.00
+TCSTORD310,2023-07-03,Bold Black Tea,Tea,North Carolina,1,$3.00,$3.00
+TCSTORD311,2023-07-04,Velvety Vanilla Latte,Coffee,Florida,4,$3.80,$15.20
+TCSTORD312,2023-07-05,Espresso Energizer,Coffee,California,3,$2.50,$7.50
+TCSTORD313,2023-07-05,Zen Green Tea,Tea,Michigan,1,$3.50,$3.50
+TCSTORD314,2023-07-06,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD315,2023-07-06,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD316,2023-07-06,Velvety Vanilla Latte,Coffee,Ohio,3,$3.80,$11.40
+TCSTORD317,2023-07-07,Velvety Vanilla Latte,Coffee,California,1,$3.80,$3.80
+TCSTORD318,2023-07-07,Bold Black Tea,Tea,Illinois,1,$3.00,$3.00
+TCSTORD319,2023-07-09,Velvety Vanilla Latte,Coffee,Illinois,3,$3.80,$11.40
+TCSTORD320,2023-07-09,Bold Black Tea,Tea,Georgia,1,$3.00,$3.00
+TCSTORD321,2023-07-10,Bold Brewed Mocha,Coffee,Ohio,2,$4.20,$8.40
+TCSTORD322,2023-07-10,Velvety Vanilla Latte,Coffee,Texas,4,$3.80,$15.20
+TCSTORD323,2023-07-13,Bold Brewed Mocha,Coffee,Georgia,1,$4.20,$4.20
+TCSTORD324,2023-07-15,Zen Green Tea,Tea,New York,4,$3.50,$14.00
+TCSTORD325,2023-07-15,Zen Green Tea,Tea,North Carolina,2,$3.50,$7.00
+TCSTORD326,2023-07-16,Espresso Energizer,Coffee,New York,2,$2.50,$5.00
+TCSTORD327,2023-07-16,Velvety Vanilla Latte,Coffee,Pennsylvania,4,$3.80,$15.20
+TCSTORD328,2023-07-16,Bold Black Tea,Tea,Ohio,1,$3.00,$3.00
+TCSTORD329,2023-07-18,Mystic Oolong,Tea,North Carolina,2,$4.00,$8.00
+TCSTORD330,2023-07-19,Bold Black Tea,Tea,Michigan,2,$3.00,$6.00
+TCSTORD331,2023-07-20,Espresso Energizer,Coffee,Ohio,3,$2.50,$7.50
+TCSTORD332,2023-07-21,Velvety Vanilla Latte,Coffee,Texas,1,$3.80,$3.80
+TCSTORD333,2023-07-22,Velvety Vanilla Latte,Coffee,New York,3,$3.80,$11.40
+TCSTORD334,2023-07-22,Bold Black Tea,Tea,North Carolina,1,$3.00,$3.00
+TCSTORD335,2023-07-23,Mystic Oolong,Tea,Georgia,1,$4.00,$4.00
+TCSTORD336,2023-07-24,Bold Black Tea,Tea,Texas,4,$3.00,$12.00
+TCSTORD337,2023-07-24,Bold Black Tea,Tea,Pennsylvania,4,$3.00,$12.00
+TCSTORD338,2023-07-24,Espresso Energizer,Coffee,Ohio,4,$2.50,$10.00
+TCSTORD339,2023-07-28,Zen Green Tea,Tea,Illinois,3,$3.50,$10.50
+TCSTORD340,2023-07-30,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD341,2023-07-30,Espresso Energizer,Coffee,California,2,$2.50,$5.00
+TCSTORD342,2023-07-31,Zen Green Tea,Tea,Texas,2,$3.50,$7.00
+TCSTORD343,2023-08-01,Bold Black Tea,Tea,Pennsylvania,3,$3.00,$9.00
+TCSTORD344,2023-08-02,Bold Brewed Mocha,Coffee,Michigan,1,$4.20,$4.20
+TCSTORD345,2023-08-03,Bold Brewed Mocha,Coffee,Ohio,1,$4.20,$4.20
+TCSTORD346,2023-08-03,Bold Black Tea,Tea,Ohio,3,$3.00,$9.00
+TCSTORD347,2023-08-03,Mystic Oolong,Tea,Illinois,4,$4.00,$16.00
+TCSTORD348,2023-08-03,Bold Black Tea,Tea,Texas,1,$3.00,$3.00
+TCSTORD349,2023-08-03,Zen Green Tea,Tea,Georgia,4,$3.50,$14.00
+TCSTORD350,2023-08-04,Velvety Vanilla Latte,Coffee,Illinois,2,$3.80,$7.60
+TCSTORD351,2023-08-05,Bold Black Tea,Tea,Pennsylvania,1,$3.00,$3.00
+TCSTORD352,2023-08-05,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD353,2023-08-05,Zen Green Tea,Tea,Florida,1,$3.50,$3.50
+TCSTORD354,2023-08-06,Bold Brewed Mocha,Coffee,Pennsylvania,4,$4.20,$16.80
+TCSTORD355,2023-08-07,Bold Brewed Mocha,Coffee,North Carolina,1,$4.20,$4.20
+TCSTORD356,2023-08-07,Zen Green Tea,Tea,Ohio,4,$3.50,$14.00
+TCSTORD357,2023-08-08,Mystic Oolong,Tea,Michigan,4,$4.00,$16.00
+TCSTORD358,2023-08-11,Bold Black Tea,Tea,Michigan,4,$3.00,$12.00
+TCSTORD359,2023-08-12,Velvety Vanilla Latte,Coffee,Florida,1,$3.80,$3.80
+TCSTORD360,2023-08-12,Mystic Oolong,Tea,California,2,$4.00,$8.00
+TCSTORD361,2023-08-15,Mystic Oolong,Tea,Georgia,4,$4.00,$16.00
+TCSTORD362,2023-08-15,Mystic Oolong,Tea,Georgia,1,$4.00,$4.00
+TCSTORD363,2023-08-17,Zen Green Tea,Tea,Texas,3,$3.50,$10.50
+TCSTORD364,2023-08-17,Bold Black Tea,Tea,Pennsylvania,4,$3.00,$12.00
+TCSTORD365,2023-08-17,Espresso Energizer,Coffee,Pennsylvania,4,$2.50,$10.00
+TCSTORD366,2023-08-17,Espresso Energizer,Coffee,North Carolina,2,$2.50,$5.00
+TCSTORD367,2023-08-18,Mystic Oolong,Tea,California,1,$4.00,$4.00
+TCSTORD368,2023-08-20,Velvety Vanilla Latte,Coffee,Florida,1,$3.80,$3.80
+TCSTORD369,2023-08-20,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD370,2023-08-20,Espresso Energizer,Coffee,California,4,$2.50,$10.00
+TCSTORD371,2023-08-21,Espresso Energizer,Coffee,Michigan,2,$2.50,$5.00
+TCSTORD372,2023-08-22,Zen Green Tea,Tea,Illinois,4,$3.50,$14.00
+TCSTORD373,2023-08-23,Velvety Vanilla Latte,Coffee,Texas,4,$3.80,$15.20
+TCSTORD374,2023-08-24,Zen Green Tea,Tea,New York,2,$3.50,$7.00
+TCSTORD375,2023-08-24,Bold Brewed Mocha,Coffee,New York,2,$4.20,$8.40
+TCSTORD376,2023-08-24,Espresso Energizer,Coffee,Illinois,4,$2.50,$10.00
+TCSTORD377,2023-08-26,Bold Black Tea,Tea,Texas,4,$3.00,$12.00
+TCSTORD378,2023-08-27,Espresso Energizer,Coffee,Illinois,1,$2.50,$2.50
+TCSTORD379,2023-08-28,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD380,2023-08-30,Mystic Oolong,Tea,Florida,4,$4.00,$16.00
+TCSTORD381,2023-08-31,Mystic Oolong,Tea,California,4,$4.00,$16.00
+TCSTORD382,2023-09-02,Bold Brewed Mocha,Coffee,North Carolina,1,$4.20,$4.20
+TCSTORD383,2023-09-04,Velvety Vanilla Latte,Coffee,Georgia,1,$3.80,$3.80
+TCSTORD384,2023-09-04,Bold Brewed Mocha,Coffee,Ohio,1,$4.20,$4.20
+TCSTORD385,2023-09-04,Velvety Vanilla Latte,Coffee,Texas,4,$3.80,$15.20
+TCSTORD386,2023-09-05,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD387,2023-09-05,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD388,2023-09-05,Velvety Vanilla Latte,Coffee,Florida,3,$3.80,$11.40
+TCSTORD389,2023-09-05,Bold Brewed Mocha,Coffee,Florida,4,$4.20,$16.80
+TCSTORD390,2023-09-07,Espresso Energizer,Coffee,California,1,$2.50,$2.50
+TCSTORD391,2023-09-07,Bold Black Tea,Tea,Ohio,1,$3.00,$3.00
+TCSTORD392,2023-09-08,Bold Brewed Mocha,Coffee,Georgia,2,$4.20,$8.40
+TCSTORD393,2023-09-09,Zen Green Tea,Tea,Texas,2,$3.50,$7.00
+TCSTORD394,2023-09-09,Bold Brewed Mocha,Coffee,Pennsylvania,3,$4.20,$12.60
+TCSTORD395,2023-09-10,Bold Brewed Mocha,Coffee,Texas,2,$4.20,$8.40
+TCSTORD396,2023-09-10,Bold Black Tea,Tea,Texas,4,$3.00,$12.00
+TCSTORD397,2023-09-11,Espresso Energizer,Coffee,Georgia,3,$2.50,$7.50
+TCSTORD398,2023-09-12,Velvety Vanilla Latte,Coffee,New York,1,$3.80,$3.80
+TCSTORD399,2023-09-12,Mystic Oolong,Tea,New York,2,$4.00,$8.00
+TCSTORD400,2023-09-12,Zen Green Tea,Tea,Michigan,2,$3.50,$7.00
+TCSTORD401,2023-09-14,Bold Brewed Mocha,Coffee,Florida,3,$4.20,$12.60
+TCSTORD402,2023-09-18,Bold Black Tea,Tea,New York,3,$3.00,$9.00
+TCSTORD403,2023-09-18,Bold Brewed Mocha,Coffee,Pennsylvania,4,$4.20,$16.80
+TCSTORD404,2023-09-18,Zen Green Tea,Tea,Illinois,4,$3.50,$14.00
+TCSTORD405,2023-09-19,Bold Brewed Mocha,Coffee,New York,2,$4.20,$8.40
+TCSTORD406,2023-09-21,Bold Brewed Mocha,Coffee,Georgia,2,$4.20,$8.40
+TCSTORD407,2023-09-24,Mystic Oolong,Tea,California,4,$4.00,$16.00
+TCSTORD408,2023-09-25,Velvety Vanilla Latte,Coffee,Ohio,4,$3.80,$15.20
+TCSTORD409,2023-09-25,Zen Green Tea,Tea,North Carolina,3,$3.50,$10.50
+TCSTORD410,2023-09-25,Bold Black Tea,Tea,California,2,$3.00,$6.00
+TCSTORD411,2023-09-26,Velvety Vanilla Latte,Coffee,Georgia,2,$3.80,$7.60
+TCSTORD412,2023-09-27,Mystic Oolong,Tea,Michigan,4,$4.00,$16.00
+TCSTORD413,2023-09-28,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD414,2023-09-28,Velvety Vanilla Latte,Coffee,Georgia,3,$3.80,$11.40
+TCSTORD415,2023-09-29,Bold Black Tea,Tea,Ohio,1,$3.00,$3.00
+TCSTORD416,2023-09-30,Zen Green Tea,Tea,North Carolina,1,$3.50,$3.50
+TCSTORD417,2023-10-01,Mystic Oolong,Tea,Florida,4,$4.00,$16.00
+TCSTORD418,2023-10-04,Zen Green Tea,Tea,Illinois,1,$3.50,$3.50
+TCSTORD419,2023-10-05,Bold Black Tea,Tea,North Carolina,4,$3.00,$12.00
+TCSTORD420,2023-10-07,Espresso Energizer,Coffee,Illinois,1,$2.50,$2.50
+TCSTORD421,2023-10-08,Zen Green Tea,Tea,Texas,2,$3.50,$7.00
+TCSTORD422,2023-10-09,Espresso Energizer,Coffee,Pennsylvania,1,$2.50,$2.50
+TCSTORD423,2023-10-10,Velvety Vanilla Latte,Coffee,North Carolina,3,$3.80,$11.40
+TCSTORD424,2023-10-11,Velvety Vanilla Latte,Coffee,Texas,3,$3.80,$11.40
+TCSTORD425,2023-10-12,Bold Brewed Mocha,Coffee,North Carolina,4,$4.20,$16.80
+TCSTORD426,2023-10-12,Velvety Vanilla Latte,Coffee,North Carolina,3,$3.80,$11.40
+TCSTORD427,2023-10-13,Zen Green Tea,Tea,Texas,1,$3.50,$3.50
+TCSTORD428,2023-10-14,Bold Black Tea,Tea,Florida,3,$3.00,$9.00
+TCSTORD429,2023-10-14,Velvety Vanilla Latte,Coffee,North Carolina,1,$3.80,$3.80
+TCSTORD430,2023-10-14,Bold Brewed Mocha,Coffee,Florida,2,$4.20,$8.40
+TCSTORD431,2023-10-17,Bold Black Tea,Tea,California,4,$3.00,$12.00
+TCSTORD432,2023-10-17,Zen Green Tea,Tea,Texas,4,$3.50,$14.00
+TCSTORD433,2023-10-18,Bold Brewed Mocha,Coffee,North Carolina,4,$4.20,$16.80
+TCSTORD434,2023-10-18,Velvety Vanilla Latte,Coffee,California,1,$3.80,$3.80
+TCSTORD435,2023-10-19,Velvety Vanilla Latte,Coffee,Georgia,3,$3.80,$11.40
+TCSTORD436,2023-10-20,Bold Black Tea,Tea,Illinois,2,$3.00,$6.00
+TCSTORD437,2023-10-20,Espresso Energizer,Coffee,Michigan,3,$2.50,$7.50
+TCSTORD438,2023-10-22,Espresso Energizer,Coffee,Ohio,4,$2.50,$10.00
+TCSTORD439,2023-10-22,Zen Green Tea,Tea,Ohio,3,$3.50,$10.50
+TCSTORD440,2023-10-23,Bold Brewed Mocha,Coffee,Texas,4,$4.20,$16.80
+TCSTORD441,2023-10-23,Zen Green Tea,Tea,Ohio,4,$3.50,$14.00
+TCSTORD442,2023-10-25,Bold Black Tea,Tea,Pennsylvania,1,$3.00,$3.00
+TCSTORD443,2023-10-26,Espresso Energizer,Coffee,Georgia,4,$2.50,$10.00
+TCSTORD444,2023-10-28,Velvety Vanilla Latte,Coffee,Texas,3,$3.80,$11.40
+TCSTORD445,2023-10-28,Espresso Energizer,Coffee,New York,2,$2.50,$5.00
+TCSTORD446,2023-10-29,Velvety Vanilla Latte,Coffee,California,2,$3.80,$7.60
+TCSTORD447,2023-10-29,Mystic Oolong,Tea,Pennsylvania,4,$4.00,$16.00
+TCSTORD448,2023-10-30,Mystic Oolong,Tea,North Carolina,4,$4.00,$16.00
+TCSTORD449,2023-10-30,Mystic Oolong,Tea,Georgia,2,$4.00,$8.00
+TCSTORD450,2023-10-30,Bold Brewed Mocha,Coffee,New York,3,$4.20,$12.60
+TCSTORD451,2023-10-31,Espresso Energizer,Coffee,Texas,2,$2.50,$5.00
+TCSTORD452,2023-11-01,Espresso Energizer,Coffee,Florida,2,$2.50,$5.00
+TCSTORD453,2023-11-02,Bold Brewed Mocha,Coffee,Pennsylvania,2,$4.20,$8.40
+TCSTORD454,2023-11-02,Bold Brewed Mocha,Coffee,Georgia,2,$4.20,$8.40
+TCSTORD455,2023-11-03,Velvety Vanilla Latte,Coffee,Florida,4,$3.80,$15.20
+TCSTORD456,2023-11-05,Velvety Vanilla Latte,Coffee,Florida,2,$3.80,$7.60
+TCSTORD457,2023-11-05,Velvety Vanilla Latte,Coffee,Michigan,1,$3.80,$3.80
+TCSTORD458,2023-11-05,Mystic Oolong,Tea,Pennsylvania,4,$4.00,$16.00
+TCSTORD459,2023-11-05,Velvety Vanilla Latte,Coffee,Georgia,3,$3.80,$11.40
+TCSTORD460,2023-11-06,Bold Brewed Mocha,Coffee,North Carolina,4,$4.20,$16.80
+TCSTORD461,2023-11-09,Mystic Oolong,Tea,Texas,4,$4.00,$16.00
+TCSTORD462,2023-11-10,Velvety Vanilla Latte,Coffee,New York,2,$3.80,$7.60
+TCSTORD463,2023-11-11,Bold Brewed Mocha,Coffee,Illinois,4,$4.20,$16.80
+TCSTORD464,2023-11-13,Bold Black Tea,Tea,North Carolina,2,$3.00,$6.00
+TCSTORD465,2023-11-13,Zen Green Tea,Tea,Pennsylvania,2,$3.50,$7.00
+TCSTORD466,2023-11-14,Velvety Vanilla Latte,Coffee,New York,2,$3.80,$7.60
+TCSTORD467,2023-11-14,Espresso Energizer,Coffee,Ohio,1,$2.50,$2.50
+TCSTORD468,2023-11-15,Bold Black Tea,Tea,Georgia,4,$3.00,$12.00
+TCSTORD469,2023-11-20,Mystic Oolong,Tea,Texas,2,$4.00,$8.00
+TCSTORD470,2023-11-23,Velvety Vanilla Latte,Coffee,Florida,4,$3.80,$15.20
+TCSTORD471,2023-11-27,Bold Black Tea,Tea,California,4,$3.00,$12.00
+TCSTORD472,2023-11-29,Velvety Vanilla Latte,Coffee,Ohio,1,$3.80,$3.80
+TCSTORD473,2023-11-29,Bold Black Tea,Tea,New York,3,$3.00,$9.00
+TCSTORD474,2023-11-29,Espresso Energizer,Coffee,California,3,$2.50,$7.50
+TCSTORD475,2023-11-29,Mystic Oolong,Tea,Michigan,3,$4.00,$12.00
+TCSTORD476,2023-12-01,Espresso Energizer,Coffee,Florida,2,$2.50,$5.00
+TCSTORD477,2023-12-01,Bold Brewed Mocha,Coffee,Michigan,2,$4.20,$8.40
+TCSTORD478,2023-12-02,Bold Black Tea,Tea,North Carolina,4,$3.00,$12.00
+TCSTORD479,2023-12-02,Velvety Vanilla Latte,Coffee,Georgia,2,$3.80,$7.60
+TCSTORD480,2023-12-03,Mystic Oolong,Tea,Pennsylvania,4,$4.00,$16.00
+TCSTORD481,2023-12-04,Velvety Vanilla Latte,Coffee,Ohio,1,$3.80,$3.80
+TCSTORD482,2023-12-04,Velvety Vanilla Latte,Coffee,Georgia,4,$3.80,$15.20
+TCSTORD483,2023-12-05,Zen Green Tea,Tea,Pennsylvania,1,$3.50,$3.50
+TCSTORD484,2023-12-06,Bold Brewed Mocha,Coffee,California,4,$4.20,$16.80
+TCSTORD485,2023-12-06,Bold Brewed Mocha,Coffee,Florida,1,$4.20,$4.20
+TCSTORD486,2023-12-06,Espresso Energizer,Coffee,Georgia,4,$2.50,$10.00
+TCSTORD487,2023-12-07,Mystic Oolong,Tea,North Carolina,3,$4.00,$12.00
+TCSTORD488,2023-12-08,Bold Black Tea,Tea,Georgia,4,$3.00,$12.00
+TCSTORD489,2023-12-08,Espresso Energizer,Coffee,North Carolina,2,$2.50,$5.00
+TCSTORD490,2023-12-09,Velvety Vanilla Latte,Coffee,North Carolina,1,$3.80,$3.80
+TCSTORD491,2023-12-09,Mystic Oolong,Tea,Ohio,4,$4.00,$16.00
+TCSTORD492,2023-12-10,Bold Brewed Mocha,Coffee,New York,1,$4.20,$4.20
+TCSTORD493,2023-12-11,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD494,2023-12-12,Mystic Oolong,Tea,California,1,$4.00,$4.00
+TCSTORD495,2023-12-13,Bold Black Tea,Tea,Ohio,4,$3.00,$12.00
+TCSTORD496,2023-12-13,Mystic Oolong,Tea,Michigan,1,$4.00,$4.00
+TCSTORD497,2023-12-13,Bold Brewed Mocha,Coffee,Texas,2,$4.20,$8.40
+TCSTORD498,2023-12-13,Bold Black Tea,Tea,Texas,2,$3.00,$6.00
+TCSTORD499,2023-12-13,Espresso Energizer,Coffee,Michigan,3,$2.50,$7.50
+TCSTORD500,2023-12-16,Velvety Vanilla Latte,Coffee,Pennsylvania,4,$3.80,$15.20
+TCSTORD501,2023-12-17,Bold Black Tea,Tea,Illinois,4,$3.00,$12.00
+TCSTORD502,2023-12-17,Velvety Vanilla Latte,Coffee,Ohio,2,$3.80,$7.60
+TCSTORD503,2023-12-17,Zen Green Tea,Tea,California,1,$3.50,$3.50
+TCSTORD504,2023-12-17,Velvety Vanilla Latte,Coffee,New York,3,$3.80,$11.40
+TCSTORD505,2023-12-19,Espresso Energizer,Coffee,Pennsylvania,1,$2.50,$2.50
+TCSTORD506,2023-12-20,Bold Brewed Mocha,Coffee,Georgia,1,$4.20,$4.20
+TCSTORD507,2023-12-20,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD508,2023-12-21,Zen Green Tea,Tea,Georgia,4,$3.50,$14.00
+TCSTORD509,2023-12-21,Mystic Oolong,Tea,Texas,1,$4.00,$4.00
+TCSTORD510,2023-12-23,Mystic Oolong,Tea,Florida,2,$4.00,$8.00
+TCSTORD511,2023-12-23,Bold Brewed Mocha,Coffee,North Carolina,4,$4.20,$16.80
+TCSTORD512,2023-12-23,Mystic Oolong,Tea,Texas,4,$4.00,$16.00
+TCSTORD513,2023-12-24,Bold Brewed Mocha,Coffee,Michigan,3,$4.20,$12.60
+TCSTORD514,2023-12-24,Mystic Oolong,Tea,Ohio,4,$4.00,$16.00
+TCSTORD515,2023-12-24,Mystic Oolong,Tea,North Carolina,1,$4.00,$4.00
+TCSTORD516,2023-12-28,Espresso Energizer,Coffee,Pennsylvania,3,$2.50,$7.50
+TCSTORD517,2023-12-28,Mystic Oolong,Tea,New York,1,$4.00,$4.00
+TCSTORD518,2023-12-29,Zen Green Tea,Tea,Ohio,2,$3.50,$7.00
+TCSTORD519,2023-12-30,Bold Brewed Mocha,Coffee,Michigan,1,$4.20,$4.20
+TCSTORD520,2023-12-31,Bold Black Tea,Tea,California,2,$3.00,$6.00
+TCSTORD521,2023-12-31,Bold Brewed Mocha,Coffee,Ohio,1,$4.20,$4.20
+TCSTORD522,2024-01-01,Mystic Oolong,Tea,Illinois,4,$4.00,$16.00
+TCSTORD523,2024-01-01,Bold Black Tea,Tea,Pennsylvania,1,$3.00,$3.00
+TCSTORD524,2024-01-01,Bold Brewed Mocha,Coffee,California,1,$4.20,$4.20
+TCSTORD525,2024-01-02,Bold Black Tea,Tea,Michigan,1,$3.00,$3.00
+TCSTORD526,2024-01-02,Bold Brewed Mocha,Coffee,Ohio,1,$4.20,$4.20
+TCSTORD527,2024-01-02,Bold Brewed Mocha,Coffee,Pennsylvania,3,$4.20,$12.60
+TCSTORD528,2024-01-02,Espresso Energizer,Coffee,Florida,2,$2.50,$5.00
+TCSTORD529,2024-01-03,Velvety Vanilla Latte,Coffee,Georgia,4,$3.80,$15.20
+TCSTORD530,2024-01-03,Bold Brewed Mocha,Coffee,New York,2,$4.20,$8.40
+TCSTORD531,2024-01-03,Zen Green Tea,Tea,Florida,4,$3.50,$14.00
+TCSTORD532,2024-01-03,Bold Black Tea,Tea,North Carolina,2,$3.00,$6.00
+TCSTORD533,2024-01-04,Bold Black Tea,Tea,North Carolina,4,$3.00,$12.00
+TCSTORD534,2024-01-05,Bold Brewed Mocha,Coffee,Illinois,3,$4.20,$12.60
+TCSTORD535,2024-01-28,Velvety Vanilla Latte,Coffee,Texas,3,$3.80,$11.40
+TCSTORD536,2024-01-29,Zen Green Tea,Tea,Georgia,4,$3.50,$14.00
+TCSTORD537,2024-01-29,Bold Brewed Mocha,Coffee,California,1,$4.20,$4.20
+TCSTORD538,2024-01-29,Mystic Oolong,Tea,Illinois,3,$4.00,$12.00
+TCSTORD539,2024-01-29,Espresso Energizer,Coffee,Pennsylvania,1,$2.50,$2.50
+TCSTORD540,2024-01-31,Bold Black Tea,Tea,Pennsylvania,3,$3.00,$9.00
+TCSTORD541,2024-02-01,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD542,2024-02-03,Bold Black Tea,Tea,Michigan,3,$3.00,$9.00
+TCSTORD543,2024-02-03,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD544,2024-02-04,Mystic Oolong,Tea,Georgia,4,$4.00,$16.00
+TCSTORD545,2024-02-04,Velvety Vanilla Latte,Coffee,Michigan,4,$3.80,$15.20
+TCSTORD546,2024-02-06,Zen Green Tea,Tea,Ohio,2,$3.50,$7.00
+TCSTORD547,2024-02-06,Bold Brewed Mocha,Coffee,Pennsylvania,3,$4.20,$12.60
+TCSTORD548,2024-02-08,Zen Green Tea,Tea,Pennsylvania,4,$3.50,$14.00
+TCSTORD549,2024-02-09,Bold Black Tea,Tea,Michigan,1,$3.00,$3.00
+TCSTORD550,2024-02-10,Espresso Energizer,Coffee,New York,4,$2.50,$10.00
+TCSTORD551,2024-02-10,Bold Black Tea,Tea,Texas,4,$3.00,$12.00
+TCSTORD552,2024-02-11,Mystic Oolong,Tea,Ohio,3,$4.00,$12.00
+TCSTORD553,2024-02-15,Velvety Vanilla Latte,Coffee,New York,3,$3.80,$11.40
+TCSTORD554,2024-02-16,Mystic Oolong,Tea,Texas,2,$4.00,$8.00
+TCSTORD555,2024-02-17,Bold Black Tea,Tea,North Carolina,4,$3.00,$12.00
+TCSTORD556,2024-02-17,Velvety Vanilla Latte,Coffee,Georgia,2,$3.80,$7.60
+TCSTORD557,2024-02-18,Velvety Vanilla Latte,Coffee,Florida,2,$3.80,$7.60
+TCSTORD558,2024-02-19,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD559,2024-02-20,Zen Green Tea,Tea,California,1,$3.50,$3.50
+TCSTORD560,2024-02-23,Mystic Oolong,Tea,Texas,4,$4.00,$16.00
+TCSTORD561,2024-02-23,Mystic Oolong,Tea,Illinois,1,$4.00,$4.00
+TCSTORD562,2024-02-24,Velvety Vanilla Latte,Coffee,California,2,$3.80,$7.60
+TCSTORD563,2024-02-24,Bold Black Tea,Tea,Ohio,4,$3.00,$12.00
+TCSTORD564,2024-02-24,Bold Black Tea,Tea,Illinois,3,$3.00,$9.00
+TCSTORD565,2024-02-26,Mystic Oolong,Tea,Ohio,3,$4.00,$12.00
+TCSTORD566,2024-02-26,Bold Brewed Mocha,Coffee,Georgia,2,$4.20,$8.40
+TCSTORD567,2024-03-01,Bold Black Tea,Tea,California,2,$3.00,$6.00
+TCSTORD568,2024-03-01,Espresso Energizer,Coffee,New York,4,$2.50,$10.00
+TCSTORD569,2024-03-02,Espresso Energizer,Coffee,Georgia,3,$2.50,$7.50
+TCSTORD570,2024-03-02,Zen Green Tea,Tea,Pennsylvania,4,$3.50,$14.00
+TCSTORD571,2024-03-02,Velvety Vanilla Latte,Coffee,New York,1,$3.80,$3.80
+TCSTORD572,2024-03-02,Mystic Oolong,Tea,New York,3,$4.00,$12.00
+TCSTORD573,2024-03-03,Mystic Oolong,Tea,Ohio,4,$4.00,$16.00
+TCSTORD574,2024-03-03,Espresso Energizer,Coffee,Georgia,2,$2.50,$5.00
+TCSTORD575,2024-03-05,Velvety Vanilla Latte,Coffee,Florida,1,$3.80,$3.80
+TCSTORD576,2024-03-05,Mystic Oolong,Tea,Michigan,2,$4.00,$8.00
+TCSTORD577,2024-03-07,Zen Green Tea,Tea,North Carolina,3,$3.50,$10.50
+TCSTORD578,2024-03-10,Bold Black Tea,Tea,New York,3,$3.00,$9.00
+TCSTORD579,2024-03-13,Velvety Vanilla Latte,Coffee,Texas,4,$3.80,$15.20
+TCSTORD580,2024-03-13,Mystic Oolong,Tea,North Carolina,1,$4.00,$4.00
+TCSTORD581,2024-03-13,Bold Black Tea,Tea,Georgia,2,$3.00,$6.00
+TCSTORD582,2024-03-14,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD583,2024-03-14,Zen Green Tea,Tea,Texas,2,$3.50,$7.00
+TCSTORD584,2024-03-15,Bold Brewed Mocha,Coffee,California,1,$4.20,$4.20
+TCSTORD585,2024-03-16,Mystic Oolong,Tea,New York,2,$4.00,$8.00
+TCSTORD586,2024-03-17,Velvety Vanilla Latte,Coffee,Ohio,1,$3.80,$3.80
+TCSTORD587,2024-03-19,Bold Brewed Mocha,Coffee,North Carolina,2,$4.20,$8.40
+TCSTORD588,2024-03-19,Mystic Oolong,Tea,California,4,$4.00,$16.00
+TCSTORD589,2024-03-22,Zen Green Tea,Tea,North Carolina,3,$3.50,$10.50
+TCSTORD590,2024-03-24,Velvety Vanilla Latte,Coffee,Pennsylvania,4,$3.80,$15.20
+TCSTORD591,2024-03-25,Espresso Energizer,Coffee,Florida,4,$2.50,$10.00
+TCSTORD592,2024-03-25,Bold Brewed Mocha,Coffee,Illinois,4,$4.20,$16.80
+TCSTORD593,2024-03-26,Bold Black Tea,Tea,California,1,$3.00,$3.00
+TCSTORD594,2024-03-27,Velvety Vanilla Latte,Coffee,Ohio,1,$3.80,$3.80
+TCSTORD595,2024-03-27,Espresso Energizer,Coffee,California,3,$2.50,$7.50
+TCSTORD596,2024-03-29,Bold Brewed Mocha,Coffee,Florida,1,$4.20,$4.20
+TCSTORD597,2024-03-30,Bold Brewed Mocha,Coffee,Illinois,1,$4.20,$4.20
+TCSTORD598,2024-03-30,Espresso Energizer,Coffee,Ohio,1,$2.50,$2.50
+TCSTORD599,2024-03-31,Zen Green Tea,Tea,North Carolina,1,$3.50,$3.50
+TCSTORD600,2024-04-01,Mystic Oolong,Tea,Georgia,2,$4.00,$8.00
+TCSTORD601,2024-04-02,Espresso Energizer,Coffee,Illinois,4,$2.50,$10.00
+TCSTORD602,2024-04-02,Velvety Vanilla Latte,Coffee,Texas,1,$3.80,$3.80
+TCSTORD603,2024-04-03,Espresso Energizer,Coffee,Georgia,4,$2.50,$10.00
+TCSTORD604,2024-04-04,Bold Brewed Mocha,Coffee,New York,1,$4.20,$4.20
+TCSTORD605,2024-04-04,Mystic Oolong,Tea,Georgia,2,$4.00,$8.00
+TCSTORD606,2024-04-04,Velvety Vanilla Latte,Coffee,Michigan,2,$3.80,$7.60
+TCSTORD607,2024-04-04,Mystic Oolong,Tea,Illinois,2,$4.00,$8.00
+TCSTORD608,2024-04-05,Espresso Energizer,Coffee,Texas,3,$2.50,$7.50
+TCSTORD609,2024-04-05,Zen Green Tea,Tea,California,2,$3.50,$7.00
+TCSTORD610,2024-04-07,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD611,2024-04-07,Velvety Vanilla Latte,Coffee,Texas,2,$3.80,$7.60
+TCSTORD612,2024-04-07,Bold Brewed Mocha,Coffee,Ohio,1,$4.20,$4.20
+TCSTORD613,2024-04-09,Zen Green Tea,Tea,Pennsylvania,1,$3.50,$3.50
+TCSTORD614,2024-04-10,Zen Green Tea,Tea,Michigan,3,$3.50,$10.50
+TCSTORD615,2024-04-12,Espresso Energizer,Coffee,Michigan,3,$2.50,$7.50
+TCSTORD616,2024-04-13,Velvety Vanilla Latte,Coffee,North Carolina,3,$3.80,$11.40
+TCSTORD617,2024-04-13,Espresso Energizer,Coffee,New York,4,$2.50,$10.00
+TCSTORD618,2024-04-13,Espresso Energizer,Coffee,Illinois,3,$2.50,$7.50
+TCSTORD619,2024-04-13,Bold Black Tea,Tea,Ohio,1,$3.00,$3.00
+TCSTORD620,2024-04-15,Bold Black Tea,Tea,Ohio,2,$3.00,$6.00
+TCSTORD621,2024-04-15,Bold Black Tea,Tea,Ohio,3,$3.00,$9.00
+TCSTORD622,2024-04-16,Zen Green Tea,Tea,Michigan,1,$3.50,$3.50
+TCSTORD623,2024-04-18,Espresso Energizer,Coffee,Illinois,4,$2.50,$10.00
+TCSTORD624,2024-04-21,Mystic Oolong,Tea,Michigan,4,$4.00,$16.00
+TCSTORD625,2024-04-21,Velvety Vanilla Latte,Coffee,Ohio,1,$3.80,$3.80
+TCSTORD626,2024-04-25,Bold Black Tea,Tea,California,2,$3.00,$6.00
+TCSTORD627,2024-04-25,Zen Green Tea,Tea,California,2,$3.50,$7.00
+TCSTORD628,2024-04-26,Bold Black Tea,Tea,North Carolina,3,$3.00,$9.00
+TCSTORD629,2024-04-28,Mystic Oolong,Tea,Florida,4,$4.00,$16.00
+TCSTORD630,2024-04-29,Velvety Vanilla Latte,Coffee,Texas,1,$3.80,$3.80
+TCSTORD631,2024-04-29,Mystic Oolong,Tea,Texas,4,$4.00,$16.00
+TCSTORD632,2024-04-30,Bold Brewed Mocha,Coffee,Georgia,1,$4.20,$4.20
+TCSTORD633,2024-04-30,Zen Green Tea,Tea,California,3,$3.50,$10.50
+TCSTORD634,2024-05-01,Zen Green Tea,Tea,North Carolina,2,$3.50,$7.00
+TCSTORD635,2024-05-01,Bold Brewed Mocha,Coffee,California,3,$4.20,$12.60
+TCSTORD636,2024-05-03,Bold Brewed Mocha,Coffee,California,3,$4.20,$12.60
+TCSTORD637,2024-05-03,Espresso Energizer,Coffee,North Carolina,4,$2.50,$10.00
+TCSTORD638,2024-05-05,Zen Green Tea,Tea,Ohio,1,$3.50,$3.50
+TCSTORD639,2024-05-05,Zen Green Tea,Tea,Ohio,3,$3.50,$10.50
+TCSTORD640,2024-05-05,Velvety Vanilla Latte,Coffee,New York,2,$3.80,$7.60
+TCSTORD641,2024-05-06,Bold Brewed Mocha,Coffee,North Carolina,2,$4.20,$8.40
+TCSTORD642,2024-05-06,Bold Black Tea,Tea,Michigan,4,$3.00,$12.00
+TCSTORD643,2024-05-07,Zen Green Tea,Tea,Georgia,3,$3.50,$10.50
+TCSTORD644,2024-05-08,Mystic Oolong,Tea,Pennsylvania,1,$4.00,$4.00
+TCSTORD645,2024-05-09,Espresso Energizer,Coffee,California,3,$2.50,$7.50
+TCSTORD646,2024-05-11,Espresso Energizer,Coffee,California,4,$2.50,$10.00
+TCSTORD647,2024-05-14,Bold Black Tea,Tea,California,2,$3.00,$6.00
+TCSTORD648,2024-05-14,Zen Green Tea,Tea,Michigan,3,$3.50,$10.50
+TCSTORD649,2024-05-14,Velvety Vanilla Latte,Coffee,New York,2,$3.80,$7.60
+TCSTORD650,2024-05-15,Bold Black Tea,Tea,Michigan,1,$3.00,$3.00
+TCSTORD651,2024-05-17,Bold Black Tea,Tea,Florida,4,$3.00,$12.00
+TCSTORD652,2024-05-18,Bold Black Tea,Tea,Michigan,4,$3.00,$12.00
+TCSTORD653,2024-05-18,Zen Green Tea,Tea,Illinois,1,$3.50,$3.50
+TCSTORD654,2024-05-18,Velvety Vanilla Latte,Coffee,Michigan,2,$3.80,$7.60
+TCSTORD655,2024-05-19,Mystic Oolong,Tea,Texas,2,$4.00,$8.00
+TCSTORD656,2024-05-19,Zen Green Tea,Tea,Florida,4,$3.50,$14.00
+TCSTORD657,2024-05-19,Zen Green Tea,Tea,Texas,4,$3.50,$14.00
+TCSTORD658,2024-05-21,Bold Black Tea,Tea,Texas,3,$3.00,$9.00
+TCSTORD659,2024-05-23,Espresso Energizer,Coffee,Illinois,4,$2.50,$10.00
+TCSTORD660,2024-05-23,Velvety Vanilla Latte,Coffee,California,2,$3.80,$7.60
+TCSTORD661,2024-05-24,Bold Black Tea,Tea,Florida,1,$3.00,$3.00
+TCSTORD662,2024-05-24,Zen Green Tea,Tea,New York,4,$3.50,$14.00
+TCSTORD663,2024-05-25,Espresso Energizer,Coffee,Illinois,2,$2.50,$5.00
+TCSTORD664,2024-05-25,Espresso Energizer,Coffee,Pennsylvania,1,$2.50,$2.50
+TCSTORD665,2024-05-26,Espresso Energizer,Coffee,Illinois,4,$2.50,$10.00
+TCSTORD666,2024-05-30,Bold Black Tea,Tea,Florida,3,$3.00,$9.00
+TCSTORD667,2024-05-31,Bold Black Tea,Tea,Texas,1,$3.00,$3.00
+TCSTORD668,2024-06-01,Mystic Oolong,Tea,Illinois,1,$4.00,$4.00
+TCSTORD669,2024-06-01,Espresso Energizer,Coffee,Ohio,1,$2.50,$2.50
+TCSTORD670,2024-06-02,Bold Black Tea,Tea,Pennsylvania,4,$3.00,$12.00
+TCSTORD671,2024-06-02,Espresso Energizer,Coffee,New York,1,$2.50,$2.50
+TCSTORD672,2024-06-02,Espresso Energizer,Coffee,Michigan,2,$2.50,$5.00
+TCSTORD673,2024-06-03,Velvety Vanilla Latte,Coffee,Georgia,1,$3.80,$3.80
+TCSTORD674,2024-06-03,Bold Black Tea,Tea,Michigan,2,$3.00,$6.00
+TCSTORD675,2024-06-04,Velvety Vanilla Latte,Coffee,California,1,$3.80,$3.80
+TCSTORD676,2024-06-06,Bold Black Tea,Tea,Texas,1,$3.00,$3.00
+TCSTORD677,2024-06-06,Bold Black Tea,Tea,North Carolina,4,$3.00,$12.00
+TCSTORD678,2024-06-07,Espresso Energizer,Coffee,New York,4,$2.50,$10.00
+TCSTORD679,2024-06-09,Bold Brewed Mocha,Coffee,California,4,$4.20,$16.80
+TCSTORD680,2024-06-10,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD681,2024-06-10,Espresso Energizer,Coffee,Georgia,2,$2.50,$5.00
+TCSTORD682,2024-06-12,Velvety Vanilla Latte,Coffee,Michigan,1,$3.80,$3.80
+TCSTORD683,2024-06-12,Mystic Oolong,Tea,Florida,2,$4.00,$8.00
+TCSTORD684,2024-06-14,Zen Green Tea,Tea,Georgia,4,$3.50,$14.00
+TCSTORD685,2024-06-14,Bold Black Tea,Tea,Georgia,4,$3.00,$12.00
+TCSTORD686,2024-06-17,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD687,2024-06-17,Mystic Oolong,Tea,Ohio,3,$4.00,$12.00
+TCSTORD688,2024-06-19,Zen Green Tea,Tea,Georgia,4,$3.50,$14.00
+TCSTORD689,2024-06-20,Zen Green Tea,Tea,New York,1,$3.50,$3.50
+TCSTORD690,2024-06-20,Mystic Oolong,Tea,New York,2,$4.00,$8.00
+TCSTORD691,2024-06-23,Zen Green Tea,Tea,California,2,$3.50,$7.00
+TCSTORD692,2024-06-23,Bold Black Tea,Tea,Texas,4,$3.00,$12.00
+TCSTORD693,2024-06-26,Velvety Vanilla Latte,Coffee,Michigan,1,$3.80,$3.80
+TCSTORD694,2024-06-26,Espresso Energizer,Coffee,Texas,2,$2.50,$5.00
+TCSTORD695,2024-06-27,Zen Green Tea,Tea,North Carolina,4,$3.50,$14.00
+TCSTORD696,2024-06-27,Espresso Energizer,Coffee,Georgia,3,$2.50,$7.50
+TCSTORD697,2024-06-28,Bold Brewed Mocha,Coffee,Florida,3,$4.20,$12.60
+TCSTORD698,2024-06-29,Bold Brewed Mocha,Coffee,Pennsylvania,3,$4.20,$12.60
+TCSTORD699,2024-06-30,Espresso Energizer,Coffee,Michigan,1,$2.50,$2.50
+TCSTORD700,2024-07-01,Bold Black Tea,Tea,Texas,4,$3.00,$12.00
+TCSTORD701,2024-07-01,Bold Black Tea,Tea,Michigan,3,$3.00,$9.00
+TCSTORD702,2024-07-02,Zen Green Tea,Tea,New York,4,$3.50,$14.00
+TCSTORD703,2024-07-02,Bold Brewed Mocha,Coffee,New York,3,$4.20,$12.60
+TCSTORD704,2024-07-04,Zen Green Tea,Tea,Florida,1,$3.50,$3.50
+TCSTORD705,2024-07-04,Bold Black Tea,Tea,North Carolina,3,$3.00,$9.00
+TCSTORD706,2024-07-04,Bold Brewed Mocha,Coffee,Michigan,1,$4.20,$4.20
+TCSTORD707,2024-07-05,Velvety Vanilla Latte,Coffee,Texas,4,$3.80,$15.20
+TCSTORD708,2024-07-05,Espresso Energizer,Coffee,California,4,$2.50,$10.00
+TCSTORD709,2024-07-07,Velvety Vanilla Latte,Coffee,North Carolina,1,$3.80,$3.80
+TCSTORD710,2024-07-08,Bold Black Tea,Tea,Texas,3,$3.00,$9.00
+TCSTORD711,2024-07-09,Zen Green Tea,Tea,California,4,$3.50,$14.00
+TCSTORD712,2024-07-11,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD713,2024-07-14,Velvety Vanilla Latte,Coffee,North Carolina,2,$3.80,$7.60
+TCSTORD714,2024-07-15,Mystic Oolong,Tea,Pennsylvania,3,$4.00,$12.00
+TCSTORD715,2024-07-15,Zen Green Tea,Tea,Florida,1,$3.50,$3.50
+TCSTORD716,2024-07-15,Bold Black Tea,Tea,New York,3,$3.00,$9.00
+TCSTORD717,2024-07-16,Mystic Oolong,Tea,Illinois,1,$4.00,$4.00
+TCSTORD718,2024-07-16,Bold Black Tea,Tea,Georgia,2,$3.00,$6.00
+TCSTORD719,2024-07-17,Espresso Energizer,Coffee,New York,3,$2.50,$7.50
+TCSTORD720,2024-07-17,Bold Black Tea,Tea,Georgia,1,$3.00,$3.00
+TCSTORD721,2024-07-17,Mystic Oolong,Tea,Michigan,3,$4.00,$12.00
+TCSTORD722,2024-07-18,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD723,2024-07-20,Mystic Oolong,Tea,Florida,2,$4.00,$8.00
+TCSTORD724,2024-07-21,Zen Green Tea,Tea,Florida,4,$3.50,$14.00
+TCSTORD725,2024-07-22,Velvety Vanilla Latte,Coffee,Ohio,2,$3.80,$7.60
+TCSTORD726,2024-07-23,Espresso Energizer,Coffee,North Carolina,2,$2.50,$5.00
+TCSTORD727,2024-07-24,Mystic Oolong,Tea,California,4,$4.00,$16.00
+TCSTORD728,2024-07-26,Zen Green Tea,Tea,Florida,4,$3.50,$14.00
+TCSTORD729,2024-07-26,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD730,2024-07-29,Espresso Energizer,Coffee,Georgia,1,$2.50,$2.50
+TCSTORD731,2024-07-29,Bold Brewed Mocha,Coffee,Michigan,4,$4.20,$16.80
+TCSTORD732,2024-07-29,Bold Brewed Mocha,Coffee,Illinois,1,$4.20,$4.20
+TCSTORD733,2024-07-31,Espresso Energizer,Coffee,Florida,1,$2.50,$2.50
+TCSTORD734,2024-07-31,Bold Brewed Mocha,Coffee,Pennsylvania,2,$4.20,$8.40
+TCSTORD735,2024-07-31,Bold Brewed Mocha,Coffee,Texas,1,$4.20,$4.20
+TCSTORD736,2024-08-01,Bold Black Tea,Tea,Texas,3,$3.00,$9.00
+TCSTORD737,2024-08-01,Bold Black Tea,Tea,Ohio,1,$3.00,$3.00
+TCSTORD738,2024-08-06,Bold Brewed Mocha,Coffee,Texas,3,$4.20,$12.60
+TCSTORD739,2024-08-09,Zen Green Tea,Tea,Illinois,2,$3.50,$7.00
+TCSTORD740,2024-08-10,Velvety Vanilla Latte,Coffee,Georgia,1,$3.80,$3.80
+TCSTORD741,2024-08-11,Espresso Energizer,Coffee,Michigan,3,$2.50,$7.50
+TCSTORD742,2024-08-11,Velvety Vanilla Latte,Coffee,North Carolina,2,$3.80,$7.60
+TCSTORD743,2024-08-11,Bold Black Tea,Tea,North Carolina,3,$3.00,$9.00
+TCSTORD744,2024-08-11,Bold Brewed Mocha,Coffee,North Carolina,2,$4.20,$8.40
+TCSTORD745,2024-08-12,Zen Green Tea,Tea,California,2,$3.50,$7.00
+TCSTORD746,2024-08-12,Bold Black Tea,Tea,New York,1,$3.00,$3.00
+TCSTORD747,2024-08-13,Velvety Vanilla Latte,Coffee,Michigan,4,$3.80,$15.20
+TCSTORD748,2024-08-13,Mystic Oolong,Tea,California,3,$4.00,$12.00
+TCSTORD749,2024-08-13,Bold Black Tea,Tea,Texas,1,$3.00,$3.00
+TCSTORD750,2024-08-19,Mystic Oolong,Tea,Pennsylvania,1,$4.00,$4.00
+TCSTORD751,2024-08-19,Zen Green Tea,Tea,Florida,3,$3.50,$10.50
+TCSTORD752,2024-08-19,Bold Brewed Mocha,Coffee,New York,1,$4.20,$4.20
+TCSTORD753,2024-08-19,Mystic Oolong,Tea,Texas,2,$4.00,$8.00
+TCSTORD754,2024-08-23,Bold Brewed Mocha,Coffee,Ohio,1,$4.20,$4.20
+TCSTORD755,2024-08-23,Mystic Oolong,Tea,Ohio,2,$4.00,$8.00
+TCSTORD756,2024-08-24,Mystic Oolong,Tea,California,4,$4.00,$16.00
+TCSTORD757,2024-08-24,Mystic Oolong,Tea,Texas,1,$4.00,$4.00
+TCSTORD758,2024-08-26,Velvety Vanilla Latte,Coffee,North Carolina,1,$3.80,$3.80
+TCSTORD759,2024-08-27,Mystic Oolong,Tea,Michigan,3,$4.00,$12.00
+TCSTORD760,2024-08-29,Velvety Vanilla Latte,Coffee,Florida,1,$3.80,$3.80
+TCSTORD761,2024-08-29,Bold Black Tea,Tea,Georgia,4,$3.00,$12.00
+TCSTORD762,2024-08-30,Bold Black Tea,Tea,New York,4,$3.00,$12.00
+TCSTORD763,2024-09-02,Velvety Vanilla Latte,Coffee,Illinois,3,$3.80,$11.40
+TCSTORD764,2024-09-02,Velvety Vanilla Latte,Coffee,Illinois,4,$3.80,$15.20
+TCSTORD765,2024-09-04,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD766,2024-09-05,Velvety Vanilla Latte,Coffee,Illinois,1,$3.80,$3.80
+TCSTORD767,2024-09-06,Bold Black Tea,Tea,Pennsylvania,3,$3.00,$9.00
+TCSTORD768,2024-09-06,Bold Brewed Mocha,Coffee,North Carolina,4,$4.20,$16.80
+TCSTORD769,2024-09-09,Bold Black Tea,Tea,Georgia,3,$3.00,$9.00
+TCSTORD770,2024-09-09,Mystic Oolong,Tea,Texas,4,$4.00,$16.00
+TCSTORD771,2024-09-09,Velvety Vanilla Latte,Coffee,New York,3,$3.80,$11.40
+TCSTORD772,2024-09-12,Mystic Oolong,Tea,Pennsylvania,4,$4.00,$16.00
+TCSTORD773,2024-09-17,Bold Brewed Mocha,Coffee,Michigan,2,$4.20,$8.40
+TCSTORD774,2024-09-19,Espresso Energizer,Coffee,Illinois,4,$2.50,$10.00
+TCSTORD775,2024-09-21,Mystic Oolong,Tea,New York,3,$4.00,$12.00
+TCSTORD776,2024-09-23,Mystic Oolong,Tea,Texas,4,$4.00,$16.00
+TCSTORD777,2024-09-23,Velvety Vanilla Latte,Coffee,California,4,$3.80,$15.20
+TCSTORD778,2024-09-24,Velvety Vanilla Latte,Coffee,California,3,$3.80,$11.40
+TCSTORD779,2024-09-24,Zen Green Tea,Tea,Florida,2,$3.50,$7.00
+TCSTORD780,2024-09-24,Bold Brewed Mocha,Coffee,Georgia,4,$4.20,$16.80
+TCSTORD781,2024-09-25,Bold Brewed Mocha,Coffee,Illinois,3,$4.20,$12.60
+TCSTORD782,2024-09-25,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD783,2024-09-26,Bold Brewed Mocha,Coffee,North Carolina,3,$4.20,$12.60
+TCSTORD784,2024-09-26,Bold Brewed Mocha,Coffee,Florida,4,$4.20,$16.80
+TCSTORD785,2024-09-27,Bold Brewed Mocha,Coffee,New York,4,$4.20,$16.80
+TCSTORD786,2024-09-28,Velvety Vanilla Latte,Coffee,California,2,$3.80,$7.60
+TCSTORD787,2024-09-28,Bold Black Tea,Tea,Michigan,4,$3.00,$12.00
+TCSTORD788,2024-09-28,Zen Green Tea,Tea,California,3,$3.50,$10.50
+TCSTORD789,2024-09-29,Zen Green Tea,Tea,Pennsylvania,3,$3.50,$10.50
+TCSTORD790,2024-09-29,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD791,2024-09-30,Mystic Oolong,Tea,Ohio,4,$4.00,$16.00
+TCSTORD792,2024-10-01,Velvety Vanilla Latte,Coffee,Illinois,4,$3.80,$15.20
+TCSTORD793,2024-10-01,Mystic Oolong,Tea,Ohio,3,$4.00,$12.00
+TCSTORD794,2024-10-03,Velvety Vanilla Latte,Coffee,Michigan,2,$3.80,$7.60
+TCSTORD795,2024-10-04,Velvety Vanilla Latte,Coffee,Michigan,3,$3.80,$11.40
+TCSTORD796,2024-10-04,Velvety Vanilla Latte,Coffee,Florida,1,$3.80,$3.80
+TCSTORD797,2024-10-05,Bold Black Tea,Tea,Pennsylvania,2,$3.00,$6.00
+TCSTORD798,2024-10-06,Espresso Energizer,Coffee,Ohio,4,$2.50,$10.00
+TCSTORD799,2024-10-10,Velvety Vanilla Latte,Coffee,Illinois,4,$3.80,$15.20
+TCSTORD800,2024-10-10,Bold Brewed Mocha,Coffee,North Carolina,4,$4.20,$16.80
+TCSTORD801,2024-10-12,Mystic Oolong,Tea,New York,2,$4.00,$8.00
+TCSTORD802,2024-10-12,Zen Green Tea,Tea,Texas,2,$3.50,$7.00
+TCSTORD803,2024-10-14,Bold Brewed Mocha,Coffee,Florida,3,$4.20,$12.60
+TCSTORD804,2024-10-14,Mystic Oolong,Tea,Pennsylvania,2,$4.00,$8.00
+TCSTORD805,2024-10-14,Mystic Oolong,Tea,Michigan,4,$4.00,$16.00
+TCSTORD806,2024-10-14,Bold Brewed Mocha,Coffee,New York,2,$4.20,$8.40
+TCSTORD807,2024-10-16,Bold Black Tea,Tea,Michigan,2,$3.00,$6.00
+TCSTORD808,2024-10-16,Bold Black Tea,Tea,Michigan,2,$3.00,$6.00
+TCSTORD809,2024-10-17,Espresso Energizer,Coffee,Ohio,3,$2.50,$7.50
+TCSTORD810,2024-10-17,Espresso Energizer,Coffee,Ohio,3,$2.50,$7.50
+TCSTORD811,2024-10-21,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD812,2024-10-21,Zen Green Tea,Tea,Georgia,1,$3.50,$3.50
+TCSTORD813,2024-10-22,Bold Brewed Mocha,Coffee,Texas,3,$4.20,$12.60
+TCSTORD814,2024-10-22,Bold Brewed Mocha,Coffee,Texas,3,$4.20,$12.60
+TCSTORD815,2024-10-23,Zen Green Tea,Tea,New York,1,$3.50,$3.50
+TCSTORD816,2024-10-23,Zen Green Tea,Tea,New York,1,$3.50,$3.50
+TCSTORD817,2024-10-24,Bold Black Tea,Tea,New York,3,$3.00,$9.00
+TCSTORD818,2024-10-24,Bold Black Tea,Tea,New York,3,$3.00,$9.00
+TCSTORD819,2024-10-25,Velvety Vanilla Latte,Coffee,Pennsylvania,1,$3.80,$3.80
+TCSTORD820,2024-10-25,Velvety Vanilla Latte,Coffee,Pennsylvania,1,$3.80,$3.80
+TCSTORD821,2024-10-26,Zen Green Tea,Tea,Georgia,4,$3.50,$14.00
+TCSTORD822,2024-10-26,Bold Brewed Mocha,Coffee,Michigan,1,$4.20,$4.20
+TCSTORD823,2024-10-26,Zen Green Tea,Tea,Georgia,4,$3.50,$14.00
+TCSTORD824,2024-10-26,Bold Brewed Mocha,Coffee,Michigan,1,$4.20,$4.20
+TCSTORD825,2024-10-27,Espresso Energizer,Coffee,Ohio,1,$2.50,$2.50
+TCSTORD826,2024-10-27,Mystic Oolong,Tea,Michigan,4,$4.00,$16.00
+TCSTORD827,2024-10-27,Espresso Energizer,Coffee,Ohio,1,$2.50,$2.50
+TCSTORD828,2024-10-27,Mystic Oolong,Tea,Michigan,4,$4.00,$16.00
+TCSTORD829,2024-10-29,Mystic Oolong,Tea,North Carolina,1,$4.00,$4.00
+TCSTORD830,2024-10-29,Mystic Oolong,Tea,North Carolina,1,$4.00,$4.00
+TCSTORD831,2024-10-30,Zen Green Tea,Tea,Michigan,2,$3.50,$7.00
+TCSTORD832,2024-10-30,Velvety Vanilla Latte,Coffee,Texas,2,$3.80,$7.60
+TCSTORD833,2024-10-30,Espresso Energizer,Coffee,Ohio,1,$2.50,$2.50
+TCSTORD834,2024-10-30,Zen Green Tea,Tea,Michigan,2,$3.50,$7.00
+TCSTORD835,2024-10-30,Velvety Vanilla Latte,Coffee,Texas,2,$3.80,$7.60
+TCSTORD836,2024-10-30,Espresso Energizer,Coffee,Ohio,1,$2.50,$2.50
+TCSTORD837,2024-10-31,Zen Green Tea,Tea,Illinois,4,$3.50,$14.00
+TCSTORD838,2024-10-31,Bold Black Tea,Tea,Ohio,3,$3.00,$9.00
+TCSTORD839,2024-10-31,Zen Green Tea,Tea,Illinois,4,$3.50,$14.00
+TCSTORD840,2024-10-31,Bold Black Tea,Tea,Ohio,3,$3.00,$9.00
+TCSTORD841,2024-11-03,Zen Green Tea,Tea,Florida,1,$3.50,$3.50
+TCSTORD842,2024-11-03,Zen Green Tea,Tea,Florida,1,$3.50,$3.50
+TCSTORD843,2024-11-04,Zen Green Tea,Tea,Pennsylvania,2,$3.50,$7.00
+TCSTORD844,2024-11-04,Zen Green Tea,Tea,Pennsylvania,2,$3.50,$7.00
+TCSTORD845,2024-11-07,Bold Black Tea,Tea,Texas,1,$3.00,$3.00
+TCSTORD846,2024-11-07,Mystic Oolong,Tea,Florida,1,$4.00,$4.00
+TCSTORD847,2024-11-07,Zen Green Tea,Tea,Texas,2,$3.50,$7.00
+TCSTORD848,2024-11-07,Bold Black Tea,Tea,Texas,1,$3.00,$3.00
+TCSTORD849,2024-11-07,Mystic Oolong,Tea,Florida,1,$4.00,$4.00
+TCSTORD850,2024-11-07,Zen Green Tea,Tea,Texas,2,$3.50,$7.00
+TCSTORD851,2024-11-08,Espresso Energizer,Coffee,Pennsylvania,4,$2.50,$10.00
+TCSTORD852,2024-11-08,Bold Brewed Mocha,Coffee,Texas,2,$4.20,$8.40
+TCSTORD853,2024-11-08,Espresso Energizer,Coffee,Pennsylvania,4,$2.50,$10.00
+TCSTORD854,2024-11-08,Bold Brewed Mocha,Coffee,Texas,2,$4.20,$8.40
+TCSTORD855,2024-11-09,Espresso Energizer,Coffee,New York,4,$2.50,$10.00
+TCSTORD856,2024-11-09,Espresso Energizer,Coffee,New York,4,$2.50,$10.00
+TCSTORD857,2024-11-10,Bold Black Tea,Tea,Illinois,3,$3.00,$9.00
+TCSTORD858,2024-11-10,Mystic Oolong,Tea,Georgia,2,$4.00,$8.00
+TCSTORD859,2024-11-10,Mystic Oolong,Tea,Texas,1,$4.00,$4.00
+TCSTORD860,2024-11-10,Bold Black Tea,Tea,Illinois,3,$3.00,$9.00
+TCSTORD861,2024-11-10,Mystic Oolong,Tea,Georgia,2,$4.00,$8.00
+TCSTORD862,2024-11-10,Mystic Oolong,Tea,Texas,1,$4.00,$4.00
+TCSTORD863,2024-11-17,Mystic Oolong,Tea,Texas,3,$4.00,$12.00
+TCSTORD864,2024-11-17,Zen Green Tea,Tea,Texas,1,$3.50,$3.50
+TCSTORD865,2024-11-17,Mystic Oolong,Tea,Texas,3,$4.00,$12.00
+TCSTORD866,2024-11-17,Zen Green Tea,Tea,Texas,1,$3.50,$3.50
+TCSTORD867,2024-11-18,Velvety Vanilla Latte,Coffee,New York,4,$3.80,$15.20
+TCSTORD868,2024-11-18,Zen Green Tea,Tea,New York,1,$3.50,$3.50
+TCSTORD869,2024-11-18,Velvety Vanilla Latte,Coffee,New York,4,$3.80,$15.20
+TCSTORD870,2024-11-18,Zen Green Tea,Tea,New York,1,$3.50,$3.50
+TCSTORD871,2024-11-21,Zen Green Tea,Tea,Pennsylvania,4,$3.50,$14.00
+TCSTORD872,2024-11-21,Zen Green Tea,Tea,Pennsylvania,4,$3.50,$14.00
+TCSTORD873,2024-11-24,Velvety Vanilla Latte,Coffee,Georgia,2,$3.80,$7.60
+TCSTORD874,2024-11-24,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD875,2024-11-24,Velvety Vanilla Latte,Coffee,Georgia,2,$3.80,$7.60
+TCSTORD876,2024-11-24,Espresso Energizer,Coffee,Ohio,2,$2.50,$5.00
+TCSTORD877,2024-11-25,Zen Green Tea,Tea,New York,3,$3.50,$10.50
+TCSTORD878,2024-11-25,Bold Black Tea,Tea,Florida,4,$3.00,$12.00
+TCSTORD879,2024-11-25,Espresso Energizer,Coffee,New York,4,$2.50,$10.00
+TCSTORD880,2024-11-25,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD881,2024-11-25,Zen Green Tea,Tea,New York,3,$3.50,$10.50
+TCSTORD882,2024-11-25,Bold Black Tea,Tea,Florida,4,$3.00,$12.00
+TCSTORD883,2024-11-25,Espresso Energizer,Coffee,New York,4,$2.50,$10.00
+TCSTORD884,2024-11-25,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD885,2024-11-28,Zen Green Tea,Tea,Texas,1,$3.50,$3.50
+TCSTORD886,2024-11-28,Zen Green Tea,Tea,Texas,1,$3.50,$3.50
+TCSTORD887,2024-11-30,Espresso Energizer,Coffee,Texas,2,$2.50,$5.00
+TCSTORD888,2024-11-30,Espresso Energizer,Coffee,Texas,2,$2.50,$5.00
+TCSTORD889,2024-12-04,Bold Black Tea,Tea,Pennsylvania,1,$3.00,$3.00
+TCSTORD890,2024-12-04,Bold Black Tea,Tea,Pennsylvania,1,$3.00,$3.00
+TCSTORD891,2024-12-05,Mystic Oolong,Tea,Pennsylvania,2,$4.00,$8.00
+TCSTORD892,2024-12-05,Bold Brewed Mocha,Coffee,Texas,1,$4.20,$4.20
+TCSTORD893,2024-12-05,Mystic Oolong,Tea,Pennsylvania,2,$4.00,$8.00
+TCSTORD894,2024-12-05,Bold Brewed Mocha,Coffee,Texas,1,$4.20,$4.20
+TCSTORD895,2024-12-06,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD896,2024-12-06,Bold Brewed Mocha,Coffee,Florida,4,$4.20,$16.80
+TCSTORD897,2024-12-06,Espresso Energizer,Coffee,California,1,$2.50,$2.50
+TCSTORD898,2024-12-06,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD899,2024-12-06,Bold Brewed Mocha,Coffee,Florida,4,$4.20,$16.80
+TCSTORD900,2024-12-06,Espresso Energizer,Coffee,California,1,$2.50,$2.50
+TCSTORD901,2024-12-07,Bold Brewed Mocha,Coffee,Michigan,2,$4.20,$8.40
+TCSTORD902,2024-12-07,Bold Brewed Mocha,Coffee,Florida,1,$4.20,$4.20
+TCSTORD903,2024-12-07,Velvety Vanilla Latte,Coffee,Pennsylvania,4,$3.80,$15.20
+TCSTORD904,2024-12-07,Bold Brewed Mocha,Coffee,Michigan,2,$4.20,$8.40
+TCSTORD905,2024-12-07,Bold Brewed Mocha,Coffee,Florida,1,$4.20,$4.20
+TCSTORD906,2024-12-07,Velvety Vanilla Latte,Coffee,Pennsylvania,4,$3.80,$15.20
+TCSTORD907,2024-12-10,Espresso Energizer,Coffee,North Carolina,3,$2.50,$7.50
+TCSTORD908,2024-12-10,Bold Brewed Mocha,Coffee,New York,2,$4.20,$8.40
+TCSTORD909,2024-12-10,Velvety Vanilla Latte,Coffee,New York,3,$3.80,$11.40
+TCSTORD910,2024-12-10,Espresso Energizer,Coffee,North Carolina,3,$2.50,$7.50
+TCSTORD911,2024-12-10,Bold Brewed Mocha,Coffee,New York,2,$4.20,$8.40
+TCSTORD912,2024-12-10,Velvety Vanilla Latte,Coffee,New York,3,$3.80,$11.40
+TCSTORD913,2024-12-11,Bold Brewed Mocha,Coffee,Michigan,1,$4.20,$4.20
+TCSTORD914,2024-12-11,Bold Brewed Mocha,Coffee,Ohio,3,$4.20,$12.60
+TCSTORD915,2024-12-11,Bold Brewed Mocha,Coffee,Michigan,1,$4.20,$4.20
+TCSTORD916,2024-12-11,Bold Brewed Mocha,Coffee,Ohio,3,$4.20,$12.60
+TCSTORD917,2024-12-12,Zen Green Tea,Tea,Florida,4,$3.50,$14.00
+TCSTORD918,2024-12-12,Bold Brewed Mocha,Coffee,North Carolina,3,$4.20,$12.60
+TCSTORD919,2024-12-12,Zen Green Tea,Tea,Florida,4,$3.50,$14.00
+TCSTORD920,2024-12-12,Bold Brewed Mocha,Coffee,North Carolina,3,$4.20,$12.60
+TCSTORD921,2024-12-13,Mystic Oolong,Tea,Florida,3,$4.00,$12.00
+TCSTORD922,2024-12-13,Bold Brewed Mocha,Coffee,Pennsylvania,2,$4.20,$8.40
+TCSTORD923,2024-12-13,Espresso Energizer,Coffee,New York,2,$2.50,$5.00
+TCSTORD924,2024-12-13,Velvety Vanilla Latte,Coffee,Texas,3,$3.80,$11.40
+TCSTORD925,2024-12-13,Mystic Oolong,Tea,Florida,3,$4.00,$12.00
+TCSTORD926,2024-12-13,Bold Brewed Mocha,Coffee,Pennsylvania,2,$4.20,$8.40
+TCSTORD927,2024-12-13,Espresso Energizer,Coffee,New York,2,$2.50,$5.00
+TCSTORD928,2024-12-13,Velvety Vanilla Latte,Coffee,Texas,3,$3.80,$11.40
+TCSTORD929,2024-12-14,Bold Brewed Mocha,Coffee,Texas,1,$4.20,$4.20
+TCSTORD930,2024-12-14,Bold Brewed Mocha,Coffee,Pennsylvania,1,$4.20,$4.20
+TCSTORD931,2024-12-14,Mystic Oolong,Tea,Illinois,1,$4.00,$4.00
+TCSTORD932,2024-12-14,Bold Brewed Mocha,Coffee,Texas,1,$4.20,$4.20
+TCSTORD933,2024-12-14,Bold Brewed Mocha,Coffee,Pennsylvania,1,$4.20,$4.20
+TCSTORD934,2024-12-14,Mystic Oolong,Tea,Illinois,1,$4.00,$4.00
+TCSTORD935,2024-12-16,Bold Black Tea,Tea,Ohio,2,$3.00,$6.00
+TCSTORD936,2024-12-16,Bold Black Tea,Tea,Ohio,2,$3.00,$6.00
+TCSTORD937,2024-12-18,Velvety Vanilla Latte,Coffee,Georgia,1,$3.80,$3.80
+TCSTORD938,2024-12-18,Velvety Vanilla Latte,Coffee,Georgia,1,$3.80,$3.80
+TCSTORD939,2024-12-19,Bold Brewed Mocha,Coffee,Georgia,1,$4.20,$4.20
+TCSTORD940,2024-12-19,Mystic Oolong,Tea,Illinois,1,$4.00,$4.00
+TCSTORD941,2024-12-19,Zen Green Tea,Tea,North Carolina,1,$3.50,$3.50
+TCSTORD942,2024-12-19,Bold Brewed Mocha,Coffee,Georgia,1,$4.20,$4.20
+TCSTORD943,2024-12-19,Mystic Oolong,Tea,Illinois,1,$4.00,$4.00
+TCSTORD944,2024-12-19,Zen Green Tea,Tea,North Carolina,1,$3.50,$3.50
+TCSTORD945,2024-12-20,Espresso Energizer,Coffee,North Carolina,2,$2.50,$5.00
+TCSTORD946,2024-12-20,Mystic Oolong,Tea,Texas,2,$4.00,$8.00
+TCSTORD947,2024-12-20,Espresso Energizer,Coffee,North Carolina,2,$2.50,$5.00
+TCSTORD948,2024-12-20,Mystic Oolong,Tea,Texas,2,$4.00,$8.00
+TCSTORD949,2024-12-21,Velvety Vanilla Latte,Coffee,California,1,$3.80,$3.80
+TCSTORD950,2024-12-21,Velvety Vanilla Latte,Coffee,California,1,$3.80,$3.80
+TCSTORD951,2024-12-22,Velvety Vanilla Latte,Coffee,California,2,$3.80,$7.60
+TCSTORD952,2024-12-22,Espresso Energizer,Coffee,Pennsylvania,2,$2.50,$5.00
+TCSTORD953,2024-12-22,Velvety Vanilla Latte,Coffee,California,2,$3.80,$7.60
+TCSTORD954,2024-12-22,Espresso Energizer,Coffee,Pennsylvania,2,$2.50,$5.00
+TCSTORD955,2024-12-23,Bold Black Tea,Tea,Ohio,1,$3.00,$3.00
+TCSTORD956,2024-12-23,Bold Black Tea,Tea,Ohio,1,$3.00,$3.00
+TCSTORD957,2024-12-24,Espresso Energizer,Coffee,Georgia,1,$2.50,$2.50
+TCSTORD958,2024-12-24,Espresso Energizer,Coffee,Georgia,1,$2.50,$2.50
+TCSTORD959,2024-12-26,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD960,2024-12-26,Espresso Energizer,Coffee,North Carolina,1,$2.50,$2.50
+TCSTORD961,2024-12-28,Mystic Oolong,Tea,California,1,$4.00,$4.00
+TCSTORD962,2024-12-28,Mystic Oolong,Tea,California,1,$4.00,$4.00
